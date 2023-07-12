@@ -1,13 +1,15 @@
 ---
-title: Devices I've been using previously
+title: Mortuary
 ---
 
-I keep track of the devices I've been using since I was a 6th grader.
+I keep track of the devices I've been using since I was 4yo. 
 
-> [!info] This list contains only devices I **owned**. I've had a privilege to use mamy more, e.g. when I was working at a software house.
+::: info
+This list contains only devices I **owned**. I've had a privilege to use mamy more, e.g. when I was working at a software house.
+:::
 
 ## Computers
-
+- Commodore 64 <3 
 - several Windows-based PCs
 - Acer Aspire 5730Z
 - Dell Latitude E6300

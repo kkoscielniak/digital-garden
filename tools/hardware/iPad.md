@@ -11,7 +11,6 @@ I try to keep the list of installed apps intact, to not lose the purpose of havi
 - [[tools/apps/kindle|Kindle]]
 - Goodnotes
 - Reeder
-- Netflix, Disney+ etc.
 - utilities like Password Manager and 2FA tools
 
 ## Others

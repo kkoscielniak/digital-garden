@@ -22,12 +22,13 @@ Yep, bear with me:
 
 ### Automated monochrome screen
 
-> [!tip] This feature requires iOS 16 AFAIR
+::: warning
+This feature requires iOS 16
+:::
 
-There are situations in which I want the screen to be colorful, like using the camera app, or watching YouTube.
+There are rare occasions in which I want the screen to be colorful, like using the camera app, or watching YouTube. For such situations, I've set the Side Button to toggle between colorful and B&W by pressing it 3 times.
 
-For the _occasional_ situations like that, I've set the Side Button to toggle between colorful and B&W by pressing it 3 times.
+For particular apps, like aforementioned camera, I've set a Personal Automation that disables B&W when I open the app and reverts back to B&W when I close it. I also have another one that resets to B&W each morning.
 
-For particular apps, like aforementioned camera, I've set an automation that disables B&W when I open it and enables, when I close it. It also resets my phone to B&W each day in the morning.
-
-## TODO: SCREENSHOT
+###### TODO
+[ ] How to automate monochromatic screen

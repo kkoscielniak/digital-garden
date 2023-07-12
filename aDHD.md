@@ -8,8 +8,6 @@ title: ADHD
 >
 > ~ [Amanda Perry](https://www.instagram.com/p/CttC0pXM6ht/)
 
-For me living with ADHD is like my brain is driven by a niche, undocumented and esoteric Linux distro without much of its understanding, whereas everyone else is using the newest macOS.
-
 ## Resources
 
 - ❗[Making ADHD your superpower](https://www.youtube.com/watch?app=desktop&v=I9LRSgxbQqM)

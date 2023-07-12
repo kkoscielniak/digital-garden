@@ -9,7 +9,7 @@ I read in both English and Polish (depending on the source material).
 Because of sync and note taking features I read eBooks mostly. Usually I read in the Kindle app on the [[tools/hardware/ipad|iPad]] or the [[tools/hardware/iphone|iPhone]]
 
 ### Bionic Reading
-I convert every book I want to read with [Bionic Reading](https://bionic-reading.com/). It helps me to focus on the content.
+I convert every book to read with [Bionic Reading](https://bionic-reading.com/). It helps me to focus on the content.
 
 ### Note taking
 
