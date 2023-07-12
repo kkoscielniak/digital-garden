@@ -1,30 +1,31 @@
 import { defineConfig } from "vitepress";
+import mdWikilinks from "markdown-it-wikilinks";
+import checkbox from "markdown-it-checkbox";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
   title: "🥦 kościelniak.pro",
   description: "Things I know",
   ignoreDeadLinks: true,
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
+        text: "ToC",
+        items: [],
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/kkoscielniak" }],
+  },
+  markdown: {
+    config: (md) => {
+      const wikilinks = mdWikilinks({
+        makeAllLinksAbsolute: true,
+      });
+
+      md.use(wikilinks).use(checkbox);
+    },
   },
 });
