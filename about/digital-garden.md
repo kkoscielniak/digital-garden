@@ -2,8 +2,6 @@
 title: Digital Garden
 ---
 
-# Digital Garden
-
 > For the most part I just wing it ad hoc and hope for the best. 😅
 > ~ Joel Hooks
 
