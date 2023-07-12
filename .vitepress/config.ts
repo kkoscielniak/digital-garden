@@ -9,15 +9,19 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
-
     sidebar: [
       {
         text: "ToC",
         items: [],
       },
     ],
-
-    socialLinks: [{ icon: "github", link: "https://github.com/kkoscielniak" }],
+    socialLinks: [
+      { icon: "instagram", link: "https://instagram.com/pankoscielniak" },
+      { icon: "github", link: "https://github.com/kkoscielniak" },
+    ],
+    search: {
+      provider: "local",
+    },
   },
   markdown: {
     config: (md) => {
