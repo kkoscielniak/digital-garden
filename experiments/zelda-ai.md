@@ -12,6 +12,8 @@ I talk with her using [[Telegram]] and request execution of some actions through
 
 Zelda is a big project that I am improving gradually whenever I have some spare time. Ultimately I want her to become ~~a sentient ai destroying the world~~ an assistant that I could delegate mundane things to.
 
+- [Insta Story about Zelda] (https://www.instagram.com/stories/highlights/17983815089298620/) 🇵🇱
+
 ## Current stack
 
 The current stack is based on the notes from [AI Devs](https://aidevs.pl) course, where I've developed skills related to [[GPT]] and automating with it.

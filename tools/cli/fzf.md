@@ -18,8 +18,9 @@ The best part is that due to its string matching feature I don't have to remembe
 
 ### [[tools/cli/bat|bat]]
 
-I use `bat` to preview files directly in File Search mode:
-![[assets/Screenshot 2022-09-27 at 10.13.29.png]]
+I use `bat` to preview files directly in File Search mode.
+
+[ ] Screenshot
 
 ### [[tools/cli/fd|fd]]
 

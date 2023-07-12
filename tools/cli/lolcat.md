@@ -8,4 +8,4 @@ It's completely useless. Enjoy.
 sl | lolcat
 ```
 
-![[assets/Kapture 2022-09-27 at 11.32.29.gif]]
+![](/public/sl.gif)
