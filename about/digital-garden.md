@@ -23,10 +23,10 @@ The good part is that the whole thing is [open-source](https://github.com/kkosci
 
 ## Technical nitpicks
 
-This site is written in [[Obsidian]] and built using [[tools/apps/vitePress|VitePress]]. I keep the Obsidian Vault on [GitHub](https://github.com/kkoscielniak/digital-garden) and host it on [GitHub Pages](https://pages/github.com)
+This site is written in [[tools/apps/obsidian]] and built using [[tools/apps/vitePress|VitePress]]. I keep the Obsidian Vault on [GitHub](https://github.com/kkoscielniak/digital-garden) and host it on [GitHub Pages](https://pages/github.com)
 
 ::: info
-For more information about this setup, see [[tools/apps/vitePress|VitePress]] and [[Obsidian]]. 
+For more information about this setup, see [[tools/apps/vitePress|VitePress]] and [[tools/apps/obsidian]]. 
 :::
 
 ## TODO
