@@ -35,11 +35,10 @@ I crafted some scripts for maintaining Obsidian Vault in VitePress (e.g. transfo
 
 The page is hosted on [GitHub Pages](https://pages.github.com/).
 
-## TODO:
+## TODO
 
-- [ ] Fix Search functionality
-- [ ] Fix issues with Sidebar rendering
+[ ] Fix Search functionality
+[ ] Fix issues with Sidebar rendering
   - [ ] Perhaps with forking `vitepress-sidebar` plugin
-- [ ] Fix `vitepress build` cmd
-- [ ] Knowledge Graph
+[ ] Knowledge Graph
   - [ ] Would be nice as a plugin :)
