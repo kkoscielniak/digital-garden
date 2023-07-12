@@ -11,7 +11,7 @@ My name is Krystian Kościelniak. I’m a proud husband and father to a sneaky 
 
 I [write code](https://github.com/kkoscielniak) for a living. Whenever I am not doing that or looking after my kiddo’, I [[reading/index|read]], [[experiments/index|experiment]], play video games or try to make sample-based boombap beats.
 
-In 2023 I've been diagnosed with [[adhd|ADHD]]. I'm still exploring that superpower.
+In 2023 I've been diagnosed with [[a-d-h-d|ADHD]]. I'm still exploring that superpower.
 
 ## What's this place?
 

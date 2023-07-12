@@ -3,6 +3,6 @@ title: Session
 ---
 
 [Session](https://www.stayinsession.com/) is a _pomodoro_ timer I use for day-to-day work.
-  - The pomodoro technique is the basic one recommended for [[adhd|ADHD]] people.
+  - The pomodoro technique is the basic one recommended for [[a-d-h-d|ADHD]] people.
 
 It has the [[tools/automation/index|automation]] features that I want to implement to my workflow.

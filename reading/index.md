@@ -7,7 +7,7 @@ Here's the **absolutely incomplete** list of what I've read so far. Sometimes wi
 If you are curious about how I read, [[reading/how-I-read|take a look]].
 
 ::: info
-Keep in mind that I've been diagnosed with [[aDHD|ADHD]] recently. I consider some of the tips presented in these books hard to apply for neurodivergent people (e.g. _Deep Work_ has lots of great ideas and is a great read overall, but the execution was never easy for me).
+Keep in mind that I've been diagnosed with [[a-d-h-d|ADHD]] recently. I consider some of the tips presented in these books hard to apply for neurodivergent people (e.g. _Deep Work_ has lots of great ideas and is a great read overall, but the execution was never easy for me).
 :::
 
 ## Currently reading
