@@ -11,6 +11,5 @@ I automate mundane and repetitive tasks as often as possible through both softwa
 
 - [[tools/apps/keyboard-maestro|Keyboard Maestro]]
 - [Elgato Stream Deck 2](/Tools/hardware/index.md#Workstation)
-- [[BetterTouchTool]]
 - [[tools/apps/raycast|Raycast]]
-- [[Shortcuts]]
+- [[tools/apps/shortcuts|Shortcuts]]

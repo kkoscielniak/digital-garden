@@ -8,7 +8,7 @@ Zealous Digital Assistant (or _Zelda_ for short) is a GPT-based virtual assistan
 
 _She_ has her own memory, she knows who I am, who my wife and daughter are, what we were discussing previously. She can execute simple actions on my behalf (e.g. preparing an invoice for my current client, adding events to my Google Calendar, translating longer texts, solving engineering problems etc.).
 
-I talk with her using [[Telegram]] and request execution of some actions through [[Shortcuts]].
+I talk with her using [[knowledge/ai/telegram-make-bot|Telegram]] and request execution of some actions through [[tools/apps/shortcuts|Shortcuts]].
 
 Zelda is a big project that I am improving gradually whenever I have some spare time. Ultimately I want her to become ~~a sentient ai destroying the world~~ an assistant that I could delegate mundane things to.
 

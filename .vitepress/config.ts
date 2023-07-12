@@ -19,7 +19,7 @@ export default defineConfig({
       // convertSameNameSubFileToGroupIndexPage: true,
       hyphenToSpace: true,
       // includeRootIndexFile: true,
-      sortByFileName: ["index.md"],
+      sortByFileName: ["about", "index.md"],
       rootGroupText: "Home",
       rootGroupLink: "/",
     }),
