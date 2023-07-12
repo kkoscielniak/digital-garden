@@ -13,3 +13,5 @@ alias cat='bat'
 ```
 
 It also integrates perfectly with [[tools/cli/fzf|fzf]].
+
+![](public/bat.png)
