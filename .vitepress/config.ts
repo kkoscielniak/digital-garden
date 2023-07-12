@@ -9,7 +9,7 @@ export default defineConfig({
   description: "Things I know",
   ignoreDeadLinks: true,
   themeConfig: {
-    nav: [{ text: "Home", link: "/" }],
+    // nav: [{ text: "Home", link: "/" }],
     sidebar: generateSidebar({
       collapsed: true,
       collapseDepth: 2,
