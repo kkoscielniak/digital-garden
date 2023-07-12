@@ -34,7 +34,7 @@ And thirdly, there are occasional inconsistencies in its operation, with some wi
 
 > From now on, when I say `yabai`, I will refer to the tandem of both tools 🤓
 
-![](/public/Screenshot%202022-09-26%20at%2015.33.49.png)
+![](/public/yabai-1.png)
 
 ### Virtual desktops level
 
@@ -67,7 +67,7 @@ Finally - I set a 10px space between windows. Because I can 🤓
 
 I also want to briefly mention a third, optional tool called [Swiftbar](https://github.com/swiftbar/SwiftBar). It is a program that periodically runs shell scripts and displays their results in the macOS MenuBar.
 
-![](/public/Screenshot%202022-09-26%20at%2016.10.55.png)
+![](/public/yabai-2.png)
 
 Thanks to Swiftbar, I have a list of virtual desktops next to the clock, with an indication of which one I am currently on. After years of using `yabai`, I don't need such a preview because muscle memory does its job, but it's a gadget that I just wanted to have 🤓
 

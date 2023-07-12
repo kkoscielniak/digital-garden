@@ -21,7 +21,7 @@ Best browser in the world. Made by [The Browser Company](https://thebrowser.comp
 
 ## Fix Arc Browser for `yabai`
 
-With default [[tools/apps/yabai|yabai]] settings some issues may occur:
+With default [[tools/cli/yabai|yabai]] settings some issues may occur:
 
 - Starting _Picture In Picture_ makes `yabai` work in unpredictable ways
 - Some windows (_Little Arc_, extensions) are rendered in the background
