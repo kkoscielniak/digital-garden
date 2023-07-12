@@ -5,6 +5,7 @@ export default defineConfig({
   base: "/",
   title: "🥦 kościelniak.pro",
   description: "Things I know",
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
