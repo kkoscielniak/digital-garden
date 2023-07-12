@@ -9,7 +9,7 @@ outline: false
 
 My name is Krystian Kościelniak. I’m a proud husband and father to a sneaky toddler.
 
-I [write code](https://github.com/kkoscielniak) for a living. Whenever I am not doing that or looking after my kiddo’, I [[reading/index|read]], [[experiment]], play video games or try to make sample-based boombap beats.
+I [write code](https://github.com/kkoscielniak) for a living. Whenever I am not doing that or looking after my kiddo’, I [[reading/index|read]], [[experiments/index|experiment]], play video games or try to make sample-based boombap beats.
 
 ## What's this place?
 

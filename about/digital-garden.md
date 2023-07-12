@@ -23,21 +23,14 @@ The good part is that the whole thing is [open-source](https://github.com/kkosci
 
 ## Technical nitpicks
 
-::: warning
-This is outdated.
+This site is written in [[Obsidian]] and built using [[tools/apps/vitePress|VitePress]]. I keep the Obsidian Vault on [GitHub](https://github.com/kkoscielniak/digital-garden) and host it on [GitHub Pages](https://pages/github.com)
+
+::: info
+For more information about this setup, see [[tools/apps/vitePress|VitePress]] and [[Obsidian]]. 
 :::
-
-The page you are seeing is built using [VitePress](https://vitepress.dev) and kept on [GitHub](https://github.com/kkoscielniak/the-garden).
-
-I write using [Obsidian](https://obdidian.md) and keep the Vault (content) in a [separate repo](https://github.com/kkoscielniak/the-garden-content) (referenced by VitePress as a `git submodule`). This should ensure that whenever I decide to use a different _gardening_ solution, the content will is more-or-less safe.
-
-I crafted some scripts for maintaining Obsidian Vault in VitePress (e.g. transforming `[[Wikilinks]]` into `[Markdown](/ones.md)`) which I intend to publish at some point, perhaps in a form of Obsidian Plugin.
-
-The page is hosted on [GitHub Pages](https://pages.github.com/).
 
 ## TODO
 
-[ ] Fix Search functionality
 [ ] Fix issues with Sidebar rendering
   - [ ] Perhaps with forking `vitepress-sidebar` plugin
 [ ] Knowledge Graph
