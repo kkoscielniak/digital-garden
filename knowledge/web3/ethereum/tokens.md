@@ -2,7 +2,7 @@
 title: tokens
 ---
 
-A *token* on [Ethereum](/ethereum) is basically just a [smart contract](/knowledge/web3/smart-contracts.md) that implements a standard set of functions that all other token contracts share, such as:
+A *token* on [[knowledge/web3/ethereum/ethereum|ethereum]]is basically just a [smart contract](/knowledge/web3/smart-contracts.md) that implements a standard set of functions that all other token contracts share, such as:
 
 - `transferFrom`
 - `balanceOf`
@@ -30,6 +30,6 @@ In practice - when an exchange adds a new ERC20 token, really it just needs to a
 
 **ERC20** tokens are a go-to solution for currency-like usage. But they're not particularly useful for representing the _objects_, for example:
 
-_Collectible_ isn't divisible like currency — transfering you 0.237 of a _collectible_ doesn't make sense. _Collectibles_ don't necesarrily have to be _equal_ (their internal state may differ, they may have different parameters and [rarity](/rarity)).
+_Collectible_ isn't divisible like currency — transfering you 0.237 of a _collectible_ doesn't make sense. _Collectibles_ don't necesarrily have to be _equal_ (their internal state may differ, they may have different parameters and rarity.
 
-For collectibles a go-to solution is to use [ERC721](/knowledge/web3/ethereum/erc721.md) standard.
+For collectibles a go-to solution is to use [[knowledge/web3/ethereum/ERC721|ERC721]] standard.

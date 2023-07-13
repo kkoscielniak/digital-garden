@@ -4,7 +4,7 @@ title: Hardhat
 
 [Hardhat](https://hardhat.org/docs) is a development environment for [smart-contracts](/knowledge/web3/smart-contracts.md) that aids editing, compiling, debugging and deploying smart contracts and [dApps](/knowledge/web3/solidity/dapps.md).
 
-In practice it's a local development enviroment for [solidity](/knowledge/web3/solidity/solidity.md) that spins up the [Ethereum network](/ethereum%20network) for development and gives you fake ETH, and fake test accounts to work with the smart contract being developed. Also, it handles the `owner` address for you as well.
+In practice it's a local development enviroment for [solidity](/knowledge/web3/solidity/solidity.md) that spins up the [[knowledge/web3/ethereum/ethereum|ethereum]] network for development and gives you fake ETH, and fake test accounts to work with the smart contract being developed. Also, it handles the `owner` address for you as well.
 
 ## `hre`
 
@@ -42,7 +42,7 @@ In this case the [Goerli network](/knowledge/web3/ethereum/goerli.md) is defined
 
 - `STAGING_QUICKNODE_KEY` - an endpoint created in [QuickNode](/knowledge/web3/quicknode.md)
 - `PRIVATE_KEY` - a **private** key of the [crypto-wallet](/knowledge/web3/crypto-wallet.md) used for deploying the [contract](/knowledge/web3/smart-contracts.md).
-  - this can be taken from [MetaMask](/metamask)
+  - this can be taken from [[knowledge/web3/crypto-wallet|MetaMask]]
 
 ## `run.ts` and `deploy.ts`
 
@@ -159,7 +159,7 @@ During the deployment it's possible to _fund_ the contract so it can send money 
 
 ## `hardhat node`
 
-Creates a local [Ethereum network](/ethereum%20network) that stays alive until killed by **CTRL + C**.
+Creates a local [[knowledge/web3/ethereum/ethereum|ethereum]] network that stays alive until killed by **CTRL + C**.
 
 ## Hardhat for VS Code
 

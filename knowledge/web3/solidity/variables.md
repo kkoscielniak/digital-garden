@@ -8,7 +8,7 @@ In [solidity](/knowledge/web3/solidity/solidity.md), there are two locations you
 
 Most of the time Solidity will handle them by default. [state-variable](/knowledge/web3/solidity/state-variable.md)s are by default `storage`. Variables declared inside functions are `memory`.
 
-However, variables have to be declared as `storage` or `memory` when dealing with [struct](/knowledge/web3/solidity/struct-packing.md)s and [array](/array)s within functions.
+However, variables have to be declared as `storage` or `memory` when dealing with [struct](/knowledge/web3/solidity/struct-packing.md)s and arrays within functions.
 
 ```solidity
 contract SandwichFactory {

@@ -12,7 +12,7 @@ Mappings act as hash tables consiting of key-value pairs.
 mapping(_KeyType => _ValueType) public mappingName
 ```
 
-Mappings are frequently used to associate unique [Ethereum network](/ethereum%20network) address with value types, e.g. a user's address to theirr corresponding level in a game:
+Mappings are frequently used to associate unique [[knowledge/web3/ethereum/ethereum|ethereum]] network address with value types, e.g. a user's address to theirr corresponding level in a game:
 
 ```solidity
 mapping(address => uint) public userLevel;

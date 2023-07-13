@@ -16,4 +16,4 @@ Then, when the owner or the approved address calls `transferFrom`, the contract
 
 In the [transferFrom](/knowledge/web3/solidity/transferfrom.md) only case the sender of the token calls the `transferFrom` function; in this case the owner or the approved receiver of the token calls it.
 
-> [!question] Best way for [airdropping](/airdropping)?
+> [!question] Best way for airdropping?
