@@ -10,7 +10,7 @@ I talk with her using [[knowledge/ai/telegram-make-bot|Telegram]] and request ex
 
 Zelda is a big project that I am improving gradually whenever I have some spare time. Ultimately I want her to become ~~a sentient ai destroying the world~~ an assistant that I could delegate mundane things to.
 
-- [Insta Story about Zelda] (https://www.instagram.com/stories/highlights/17983815089298620/) 🇵🇱
+- [Insta Story about Zelda](https://www.instagram.com/stories/highlights/17983815089298620/) 🇵🇱
 
 ## Current stack
 
