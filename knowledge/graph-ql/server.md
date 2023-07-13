@@ -36,4 +36,4 @@ server.listen({ port: 5678 }).then((result) => {
 
 ## See also
 
-- [typeDefs](/Knowledge/graph-ql/typeDefs.md)
+- [typeDefs](/knowledge/graph-ql/typedefs.md)

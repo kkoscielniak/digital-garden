@@ -8,4 +8,4 @@ _Abstraction_ is a rule stating that we should reduce the complexity of the clas
 
 This reduces complexity of the class and helps the consumers of this class to use it properly.
 
-Change of any of the internal methods does not affect the consumer class and reduces [coupling](/Knowledge/OOP/coupling.md).
+Change of any of the internal methods does not affect the consumer class and reduces [coupling](/knowledge/oop/coupling.md).

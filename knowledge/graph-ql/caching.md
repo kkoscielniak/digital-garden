@@ -2,7 +2,7 @@
 title: Caching in Apollo Client
 ---
 
-_Caching_ is enabled by default in [apollo-client](/Knowledge/graph-ql/apollo-client.md). Occasionally it may provide erroneous responses.
+_Caching_ is enabled by default in [apollo-client](/knowledge/graph-ql/apollo-client.md). Occasionally it may provide erroneous responses.
 
 ## queryDeduplication
 

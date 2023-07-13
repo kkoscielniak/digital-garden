@@ -14,4 +14,4 @@ title: json-server
 
 ## Plugins
 
-- [JSON Server Auth](https://github.com/jeremyben/json-server-auth). Uses [[Knowledge/Others/JWT]].
+- [JSON Server Auth](https://github.com/jeremyben/json-server-auth). Uses [[Knowledge/others/JWT]].

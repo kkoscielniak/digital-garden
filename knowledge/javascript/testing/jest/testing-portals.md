@@ -39,11 +39,11 @@ test("modal shows the children", () => {
   render(
     <Modal>
       <div data-testid="test" />
-    </Modal>,
+    </Modal>
   );
   const { getByTestId } = within(document.getElementById("modal-root"));
   expect(getByTestId("test")).toBeInTheDocument();
 });
 ```
 
-The `getByTestId` by default is bound to `document.body`, so it's available everywhere. Using `within` allows us to scope `getByTestId` down to the particular [DOM](Knowledge/WebDev/DOM.md) node.
+The `getByTestId` by default is bound to `document.body`, so it's available everywhere. Using `within` allows us to scope `getByTestId` down to the particular [DOM](/knowledge/webdev/dom.md) node.

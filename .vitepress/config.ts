@@ -8,6 +8,7 @@ export default defineConfig({
   title: "🥦 kościelniak.pro",
   description: "Things I know",
   ignoreDeadLinks: true,
+  srcExclude: ["private"],
   themeConfig: {
     docFooter: {
       next: false,

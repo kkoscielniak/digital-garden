@@ -30,7 +30,7 @@ The response retains the shape of the query (even the order of the field).
 
 > [!danger] Explicite queries
 >
-> We cannot ask for a whole object without telling asking server for specific fields in the [typeDefs](/Knowledge/graph-ql/typeDefs.md). If we want the whole object, we need to list all its fields first.
+> We cannot ask for a whole object without telling asking server for specific fields in the [typeDefs](/knowledge/graph-ql/typedefs.md). If we want the whole object, we need to list all its fields first.
 
 ## Errors
 

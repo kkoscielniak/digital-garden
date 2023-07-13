@@ -10,4 +10,4 @@ If we had hundreds or thousands of classes, and many of them were highly depende
 
 > A good metaphor would be a car. For a flat tire, we wouldn't need to swap the entire engine. That makes the car a _loosely coupled system_ (different parts work together, but are not highly dependent on each other)
 
-We can build loosely coupled applications using [interfaces](/Knowledge/OOP/interface.md).
+We can build loosely coupled applications using [interfaces](/knowledge/oop/interface.md).

@@ -7,7 +7,7 @@ Best browser in the world. Made by [The Browser Company](https://thebrowser.comp
 ## Best parts
 
 - Vertical tabs
-  - I use [UltraWide display](/Tools/hardware/index.md) that makes using Arc even more convenient
+  - I use [UltraWide display](/tools/hardware/index.md) that makes using Arc even more convenient
 - Spaces <3
   - I use each space for different areas of my life (Current Project, Current [[experiments/ideas|pet-project]])
 - Automated tabs archiving
@@ -41,7 +41,7 @@ defaults write com.stairways.keyboardmaestro.engine BrowserGoogleChromeName -str
 
 ## Arc Browser and AppleScript
 
-The Browser Company released basic AppleScript support for Arc, that can be used in [Keyboard Maestro](tools/apps/keyboard-maestro.md) macros:
+The Browser Company released basic AppleScript support for Arc, that can be used in [Keyboard Maestro](/tools/apps/keyboard-maestro.md) macros:
 
 ```applescript
 set KM_URL to ""

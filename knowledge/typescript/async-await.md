@@ -18,7 +18,7 @@ async function() {
 
 Throwing an exception is the best method to deal with errors in asynchronous functions.
 
-([[knowledge/typescript/Promise]]) `Promise.all()` & `Promise.race()` don't have the async-await-like counterparts.
+([[knowledge/typescript/promise]]) `Promise.all()` & `Promise.race()` don't have the async-await-like counterparts.
 
 In some cases mixing the methods makes sense.
 
@@ -58,7 +58,7 @@ const slowIsEven = async (num, ms = 1000) => {
 
 ## Resources
 
-- [async/await tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
-- [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-- [await function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
-- [for await...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of)
+- [async/await tutorial on MDN](https://developer.mozilla.org/en-us/docs/learn/javascript/asynchronous/async_await)
+- [async function](https://developer.mozilla.org/en-us/docs/web/javascript/reference/statements/async_function)
+- [await function](https://developer.mozilla.org/en-us/docs/web/javascript/reference/operators/await)
+- [for await...of](https://developer.mozilla.org/en-us/docs/web/javascript/reference/statements/for-await...of)
