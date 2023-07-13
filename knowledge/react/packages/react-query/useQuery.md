@@ -2,7 +2,7 @@
 title: useQuery hook
 ---
 
-A hook used to fetch data in [React Query](/knowledge/react/packages/react-query/_index.md).
+A hook used to fetch data in [React Query](knowledge/react/packages/react-query/react-query.md).
 
 Allows to control the state of the component depending on the retrieved data. Helps with caching and refetching the remote data as well.
 

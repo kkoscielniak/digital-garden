@@ -2,7 +2,7 @@
 title: Demo of React Query + YNAB
 ---
 
-I am an YNAB heavy user. While learning [[knowledge/react/packages/react-query/_index|React Query]] I decided to create a demo that uses [YNAB API](https://api.youneedabudget.com/v1). This file describes the high-level process of the demo development and my findings.
+I am an YNAB heavy user. While learning [[knowledge/react/packages/react-query/react-query|React Query]] I decided to create a demo that uses [YNAB API](https://api.youneedabudget.com/v1). This file describes the high-level process of the demo development and my findings.
 
 The full code is [here](https://github.com/kkoscielniak/react-query-ynab). I've also added links to particular files/commits (denoted as 📄).
 

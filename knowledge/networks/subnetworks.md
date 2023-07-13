@@ -8,7 +8,7 @@ In an IP network, a *subnetwork* (subnet) is usually the equivalent of one or 
 
 The network segment refers to a **physical connection**, while a subnetwork refers to a **logical connection**.
 
-A subnetwork has its own IP address range and is connected to a more extensive network via a router. There might be a [firewall](/knowledge/offsec/hardening/firewall.md) enforcing security policies depending on each network.
+A subnetwork has its own IP address range and is connected to a more extensive network via a router. There might be a [firewall](knowledge/off-sec/hardening/firewall.md) enforcing security policies depending on each network.
 
 ## Example
 
@@ -19,11 +19,11 @@ The figure above shows two types of subnets:
 - Subnets with `/16` - the subnet mask can be written as `255.255.0.0`. This subnet can have around 65k hosts.
 - Subnets with `/24` - the subnet mask can be expressed as `255.255.255.0`. This subnet can have around 250 hosts.
 
-As part of [active-recce](/knowledge/offsec/pentesting/recce/active-recce.md), we want to discover more information about a group of hosts or about a subnet.
+As part of [active-recce](knowledge/off-sec/pentesting/recce/active-recce.md), we want to discover more information about a group of hosts or about a subnet.
 
 ### Same subnet scanning
 
-If you are connected to the same subnet, you would expect your scanner to rely on [ARP](/knowledge/networking/arp.md) queries to discover live hosts within that subnet (eg. Network A at `10.1.100.0/24`).
+If you are connected to the same subnet, you would expect your scanner to rely on [[knowledge/networks/address-resolution-protocol|address-resolution-protocol]] queries to discover live hosts within that subnet (eg. Network A at `10.1.100.0/24`).
 
 ### Different subnet scanning
 
