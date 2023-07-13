@@ -1,0 +1,1 @@
+[Data entities](https://developer.android.com/training/data-storage/room/defining-data) represent tables in your app's database. They are used to update the data stored in rows in tables, and to create new rows for insertion.
