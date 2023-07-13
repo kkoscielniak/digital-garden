@@ -4,7 +4,7 @@ Used to access native APIs of the Platform, reuse 3rd party libraries written di
 
 The `NativeModule` system exposes instances native classes to JS as objects, allowing to execute native code from within JS.
 
-> 💡 React Native Team is working on [[TurboModules]] which are going to be the next big thing in the Native Modules world.
+> 💡 React Native Team is working on TurboModules which are going to be the next big thing in the Native Modules world.
 
-- [[knowledge/react-native/Native Modules in iOS]]
-- [[knowledge/react-native/Native Modules in Android]]
+- [[knowledge/react-native/native-modules-ios]]
+- [[knowledge/react-native/native-modules-android]]

@@ -1,4 +1,6 @@
-# Linking libraries
+---
+title: Linking libraries
+---
 
 Used to link the native components/modules to the React Native app. The native features are exposed as independent static libraries.
 
@@ -16,7 +18,7 @@ If the iOS project is using CocoaPods (contains `Podfile`) and the library has `
 
 1. Drag the library's `.xcodeproj` file inside _Libraries_ in Xcode.
 2. Go to _Project_ -> _Build Phases_
-3. Drag the static library from _Libraries_ -> _[library]_ -> _Products_ to _Link Binary With Libraries_ section.
+3. Drag the static library from _Libraries_ -> _library_ -> _Products_ to _Link Binary With Libraries_ section.
 4. (optional) Include the path to the library in _Project_ -> _Build Settings_ -> _Header Search Paths_ (non-recursive) - this is needed if you need to call the native parts of the library from the native part of the app that you're developing.
 
 ### Android

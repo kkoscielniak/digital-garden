@@ -1,6 +1,6 @@
 # Native Modules in iOS
 
-- [[knowledge/react-native/Native Modules]]
+- [[knowledge/react-native/native-modules]]
 
 1. Create custom Native Module header (`RCTCalendarModule.h`) and implementation (`RCTCalendarModule.m`) files:
 
