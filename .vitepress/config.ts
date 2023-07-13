@@ -18,7 +18,7 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    sidebarMenuLabel: "Delve in",
+    sidebarMenuLabel: "Roam freely",
   },
   markdown: {
     config: (md) => {

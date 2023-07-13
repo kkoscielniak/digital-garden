@@ -49,5 +49,3 @@ export const sidebar = [
     collapsed: true,
   }),
 ];
-
-console.log(sidebar);
