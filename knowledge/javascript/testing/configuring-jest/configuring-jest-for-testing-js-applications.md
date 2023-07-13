@@ -4,9 +4,9 @@ title: Configuring Jest for testing JS applications
 
 > This note goes through useful Jests features, without actually going to how to write tests.
 
-## `process.env.NODE_ENV`
+## process .env .NODE_ENV
 
-For testing `process.env.NODE_ENV === 'test'`. This can be used to enable `commonjs` modules in `babel` just for testing.
+For testing `process .env .NODE_ENV === 'test'`. This can be used to enable `commonjs` modules in `babel` just for testing.
 
 Jest picks up `.babelrc.js` automatically.
 
