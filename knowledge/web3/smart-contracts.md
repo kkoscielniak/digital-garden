@@ -24,7 +24,7 @@ New contract means **new address**, and both address and [ABI](/knowledge/web3/a
 
 > [!tip] This can be solved
 >
-> The immutability ifself is a feature, however some parts of the contract can be deliberately programmed to be changeable (e.g. with the [ownable contract](/ownable%20contract)).
+> The immutability ifself is a feature, however some parts of the contract can be deliberately programmed to be changeable (e.g. with the ownable contract).
 >
 > - [ ] Learn and describe how to solve it.
 

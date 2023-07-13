@@ -7,5 +7,5 @@ Developing a front-end in web3 doesn't differ much from the web2. The main diffe
 ## Libraries
 
 - [web3.js](https://web3js.readthedocs.io/en/v1.8.0/)
-- [ethers.js](/knowledge/web3/frontend/ethers.md)
+- [[knowledge/web3/frontend/ethers|ethers]]
 - [react-wagmi](https://wagmi.sh)

@@ -8,7 +8,7 @@ Deploying a [smart contract](/knowledge/web3/smart-contracts.md) is a transactio
 
 ## Mining the transactions
 
-Transactions are [mined](/mined) by the [miners](/miners):
+Transactions are _mined_ by the _miners_:
 
 1. We broadcast our transaction
 2. Wait for it to be picked up by actual miners
