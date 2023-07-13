@@ -3,7 +3,7 @@ title: Ideas worth exploring
 ---
 
 # Ideas worth exploring
-Here I keep list of ideas I came with, but haven't had time to [[experiments/index|experiment]] with them yet. 
+Here I keep list of ideas I came with, but haven't had time to [[experiments/experiments|experiment]] with them yet. 
 
 - [GFDA](https://gfda.co/)-like wallpapers creator
   - webapp that allows to create text-based wallpaper with the content of your own

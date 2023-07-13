@@ -14,7 +14,7 @@ I convert every book to read with [Bionic Reading](https://bionic-reading.com/).
 
 ### Note taking
 
-I [[tools/apps/kindle|highlight]] a lot. I use these highlights to make [[reading/index|book notes]] shortly after finishing a book.
+I [[tools/apps/kindle|highlight]] a lot. I use these highlights to make [[reading/reading|book notes]] shortly after finishing a book.
 
 I have lots of unfinished books on my plate. When I want to get back to one, I create the book notes from the highlights I already made to remember what the book was about and continue reading from where I finished.
 

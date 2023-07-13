@@ -1,8 +1,8 @@
 ---
-title: My favorite KM macro
+title: Copy Samples to MPC Live
 ---
 
-# My favorite KM macro
+# Copy Samples to MPC Live automatically
 
 ~~I am a beginner music producer.~~ I occasionally play with sample-based boombap beats trying to make something audible. Because of this hobby, my drive is full of jazzy cuts. I wanted to have them synced on my MPC Live SSD so I can access them in the standalone mode (without the computer connected).
 

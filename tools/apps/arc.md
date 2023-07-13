@@ -14,7 +14,7 @@ Best browser in the world. Made by [The Browser Company](https://thebrowser.comp
   - I use each space for different areas of my life (Current Project, Current [[experiments/ideas|pet-project]])
 - Automated tabs archiving
   - It closes unvisited tabs automatically (for me: after 7 days)
-  - helps me to manage my [[a-d-h-d|ADHD]] since I open dozens of tabs daily
+  - helps me to manage my [[knowledge/adhd|ADHD]] since I open dozens of tabs daily
 - Has a mobile app!
   - It's rather simple so occasionally I still use Safari
   - Still can't be set as a default one on iOS
