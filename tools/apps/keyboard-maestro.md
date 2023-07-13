@@ -2,8 +2,6 @@
 title: Keyboard Maestro
 ---
 
-# Keyboard Maestro
-
 [Keyboard Maestro](https://www.keyboardmaestro.com) is an app that allows to automate tasks within macOS. Think: Shortcuts, but on steroids.
 
 I call the Keyboard Maestro macros with hotkeys, from [Stream Deck](/Tools/hardware/index.md#Workstation) or with an extension for [[tools/apps/raycast|Raycast]], but some triggers can be automated as well, eg. connecting an USB device.

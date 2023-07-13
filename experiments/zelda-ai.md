@@ -2,8 +2,6 @@
 title: Zelda AI
 ---
 
-# Zelda AI
-
 Zealous Digital Assistant (or _Zelda_ for short) is a GPT-based virtual assistant helping me with day-to-day tasks.
 
 _She_ has her own memory, she knows who I am, who my wife and daughter are, what we were discussing previously. She can execute simple actions on my behalf (e.g. preparing an invoice for my current client, adding events to my Google Calendar, translating longer texts, solving engineering problems etc.).

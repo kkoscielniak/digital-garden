@@ -1,5 +1,6 @@
 ---
 title: Hardware
+customHeader: true
 ---
 
 # Hardware I use

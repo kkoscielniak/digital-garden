@@ -1,8 +1,6 @@
 ---
-title: Arc Browser
+title: Arc
 ---
-
-# Arc Browser
 
 Best browser in the world. Made by [The Browser Company](https://thebrowser.company/)
 

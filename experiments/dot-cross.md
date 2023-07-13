@@ -2,8 +2,6 @@
 title: "dot-cross"
 ---
 
-# dot-cross
-
 ::: info
 The name is not final, treat it as a codename ;-)
 :::

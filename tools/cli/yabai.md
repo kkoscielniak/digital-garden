@@ -2,8 +2,6 @@
 title: yabai
 ---
 
-# `yabai`
-
 ::: warning
 This post was written for [Ahoy Community](https://ahoy.so) and has been translated using the GPT API. Also, I've changed my configuration a lot when I was configuring my latest [MacBook Pro](Tools/hardware/index.md#workstation).
 :::

@@ -1,5 +1,6 @@
 ---
 title: VS Code
+customHeader: true
 ---
 
 # Visual Studio Code

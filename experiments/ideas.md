@@ -2,8 +2,6 @@
 title: Ideas worth exploring
 ---
 
-# Ideas worth exploring
-
 Here I keep list of ideas I came with, but haven't had time to [[experiments/experiments|experiment]] with them yet.
 
 - [GFDA](https://gfda.co/)-like wallpapers creator

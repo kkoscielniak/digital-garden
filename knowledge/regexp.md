@@ -1,5 +1,6 @@
 ---
-title: RegExp Cheatsheet
+title: RegExp
+customHeader: true
 ---
 
 # RegExp Cheatsheet

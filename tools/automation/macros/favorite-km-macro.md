@@ -1,5 +1,6 @@
 ---
-title: Copy Samples to MPC Live
+title: Copy Samples to MPC
+customHeader: true
 ---
 
 # Copy Samples to MPC Live automatically

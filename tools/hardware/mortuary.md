@@ -1,6 +1,9 @@
 ---
 title: Mortuary
+customHeader: true
 ---
+
+# Devices mortuary 🪦
 
 I keep track of the devices I've been using since I was 4yo. 
 
@@ -9,9 +12,17 @@ This list contains only devices I **owned**. I've had a privilege to use mamy mo
 :::
 
 ## Computers
-- Commodore 64 <3 
+- Commodore 64 <3
+	- I wrote my first lines of code when I was 4 or 5yo on this machine
+```
+10 PRINT "HELLO WORLD!"
+20 GOTO 10
+RUN
+```
 - several Windows-based PCs
+	- The first one ran under Windows older than most of my colleagues
 - Acer Aspire 5730Z
+	- My first notebook, thanks mama!
 - Dell Latitude E6300
 - Samsung Series 5 Ultrabook NP530U3C
 - MacBook Pro 13" (mid 2014)

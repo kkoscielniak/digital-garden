@@ -1,5 +1,6 @@
 ---
 title: Home
+customHeader: true
 lastUpdated: false
 next: false
 outline: false
