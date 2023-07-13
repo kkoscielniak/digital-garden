@@ -30,7 +30,6 @@ export const sidebar = [
   { text: "whoami", link: "/" },
   ...getSidebarPartial({
     path: "about",
-    collapsed: true,
   }),
   ...getSidebarPartial({
     path: "experiments",
