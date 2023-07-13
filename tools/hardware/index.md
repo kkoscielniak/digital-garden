@@ -33,7 +33,7 @@ I live in the Apple's ecosystem since 2014. While I am not a definite fanboy of 
 ## Mobile
 
 - [[tools/hardware/iPhone|iPhone 13 Pro Max]]
-- [iPad Mini 6](Tools/hardware/ipad.md) with Apple Pencil
+- [iPad Mini 6](Tools/hardware/iPad.md) with Apple Pencil
 - Apple Watch Ultra
 - AirPods Pro (1st gen.)
 
