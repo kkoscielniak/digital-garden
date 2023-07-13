@@ -9,6 +9,10 @@ export default defineConfig({
   description: "Things I know",
   ignoreDeadLinks: true,
   themeConfig: {
+    docFooter: {
+      next: false,
+      prev: false,
+    },
     externalLinkIcon: true,
     sidebar,
     socialLinks: [
