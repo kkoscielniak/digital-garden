@@ -80,7 +80,7 @@ Our newly created bot is still quite generic. It has a poor name and lacks any c
 
 After selecting our bot from the list, additional options will appear:
 
-![[public/telegram-make-bot-3.5.png]]
+![](/public/telegram-make-bot-3.5.png)
 
 By selecting _Edit Bot_, we will have the option to change its name, contact picture, description, etc. By clicking on the appropriate option (e.g. Edit Name), we will be asked to provide a new name.
 

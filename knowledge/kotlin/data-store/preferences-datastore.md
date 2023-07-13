@@ -43,7 +43,7 @@ The `DataStore` instance is created using the `preferencesDataStore` delegate. S
 
 > 💡 Create the DataStore instance at the top level of your Kotlin file once, and access it through this property throughout the rest of your application. This makes it easier to keep your DataStore as a singleton.
 
-Preferences DataStore does not use a predefined schema. It uses corresponding key type functions to define a key for each value that you store in the `DataStore<Preferences>` instance, e.g., to define a key for an `int` value, use [`intPreferencesKey()`](<https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/package-summary#intPreferencesKey(kotlin.String)>), and for a `string` value use [`stringPreferencesKey()`](https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/package-summary#stringpreferenceskey). In general, these function names are prefixed with the type of data you want to store against the key.
+Preferences DataStore does not use a predefined schema. It uses corresponding key type functions to define a key for each value that you store in the `DataStore<Preferences>` instance, e.g., to define a key for an `int` value, use [`intPreferencesKey()`](https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/package-summary#intPreferencesKey), and for a `string` value use [`stringPreferencesKey()`](https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/package-summary#stringpreferenceskey). In general, these function names are prefixed with the type of data you want to store against the key.
 
 ### Editing the values in DataStore
 

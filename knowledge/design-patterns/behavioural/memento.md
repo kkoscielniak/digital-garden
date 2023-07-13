@@ -10,7 +10,7 @@ We use the _Memento_ pattern when we want to be able to revert the object to one
 The Memento pattern has 2 objectives:
 
 - Saving the important data of the key object in the system
-- [encapsulation](/knowledge/oop/encapsulation.md) of this key object
+- [[knowledge/oop/encapsulation|encapsulation]] of this key object
 
 ## Implementation
 
@@ -103,7 +103,7 @@ console.log(editor.content); // "A"
 ### Advantages
 
 - keeping the saved state of the object outside of the object
-- [encapsulation](/knowledge/oop/encapsulation.md) of the data of that object
+- [[knowledge/oop/encapsulation|encapsulation]] of the data of that object
 - providing the easy to implement way of returning the object to its previous state
 
 ### Disadvantages

@@ -4,7 +4,7 @@ title: Design Patterns
 
 _Design Patterns_ are elegant solutions to repetitive problems in software design, like:
 
-- the Undo mechanism ([memento](/knowledge/design-patterns/behavioural/memento.md) pattern)
+- the Undo mechanism ([[knowledge/design-patterns/behavioural/memento|memento]] pattern)
 
 Design Patterns show how to structure classes, and how these classes should talk to each other.
 
@@ -19,7 +19,7 @@ Usually Design Patterns are split into three categories:
 
 There are many unofficial and undocumented patterns out there that we might find useful in certain situations.
 
-One of the goals is to minimize [coupling](/knowledge/oop/coupling.md).
+One of the goals is to minimize [[knowledge/oop/coupling|coupling]].
 
 ## Resources
 

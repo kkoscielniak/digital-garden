@@ -2,9 +2,9 @@
 title: require function
 ---
 
-`require` [function](/knowledge/web3/solidity/function.md) checks if the condition passed as an argument is `true`.
+`require` [[knowledge/web3/solidity/function|function]] checks if the condition passed as an argument is `true`.
 
-If it's not, the function will quit and the [transaction](/knowledge/web3/transaction.md) will cancel.
+If it's not, the function will quit and the [[knowledge/web3/transaction|transaction]] will cancel.
 
 ## Example
 

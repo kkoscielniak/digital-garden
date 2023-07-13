@@ -12,6 +12,6 @@ cy.request({
 });
 ```
 
-These requests are usually reusable and can be used as [custom-cypress-cmds](/knowledge/javascript/testing/cypress/custom-cypress-cmds.md).
+These requests are usually reusable and can be used as [[knowledge/javascript/testing/cypress/custom-cypress-cmds]].
 
 Typically, `cy.request`s are faster than calling HTTP from within the tested app.

@@ -21,7 +21,7 @@ Radical changes can cause burnout.
 
 ## _Kaizen_
 
-In business: The opposite of [Innovation](#Innovation). Literally: the method of continuous
+In business: The opposite of [[#Innovation|Innovation]]. Literally: the method of continuous
 improvement of management and production processes at every level, just-in-time.
 
 - Every employee can suggest an idea for process improvement

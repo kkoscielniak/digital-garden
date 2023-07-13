@@ -17,9 +17,9 @@ Here I keep list of ideas I came with, but haven't had time to [[experiments/exp
       - Automate setting a wallpaper on macOS with the saved file
       - Profit
 - AI-based Arc Browser space manager
-  - Lists all the spaces and all the tabs open in the [[tools/apps/arc]] browser
+  - Lists all the spaces and all the tabs open in the [[tools/apps/arc|Arc]] browser
   - Asks GPT to categorise (normalised) tab titles into spaces
     - The categorisation based on space name
   - Moves tabs to particular spaces according to GPTs response
     - This could be done using bunch of AppleScripts, as Arc provides a dictionary
-  - I could use [[tools/apps/raycast]] extension to fire the categorisation
+  - I could use [[tools/apps/raycast|Raycast]] extension to fire the categorisation

@@ -41,7 +41,7 @@ defaults write com.stairways.keyboardmaestro.engine BrowserGoogleChromeName -str
 
 ## Arc Browser and AppleScript
 
-The Browser Company released basic AppleScript support for Arc, that can be used in [Keyboard Maestro](/tools/apps/keyboard-maestro.md) macros:
+The Browser Company released basic AppleScript support for Arc, that can be used in [[tools/apps/keyboard-maestro|Keyboard Maestro]] macros:
 
 ```applescript
 set KM_URL to ""
