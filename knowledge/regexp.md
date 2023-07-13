@@ -8,11 +8,11 @@ Regular expression - a sequence of characters representing a pattern.
 
 They are pretty hard to maintain:
 
-> If you'll use regular expression to solve a problem, you'll have two problems.
+> If you'll use regular expression to solve a problem, [you'll have two problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/).
 
 Regular expressions are case-sensitive by default.
 
-We need to keep in mind the special characters, like `.`. (metacharacters).
+We need to keep in mind the special characters, like `.` (metacharacters).
 
 It's generally better to re-use the regular expressions available over the Internet, as they are pretty tricky to write and maintain. The bugs in these are probably fixed by the community already.
 
