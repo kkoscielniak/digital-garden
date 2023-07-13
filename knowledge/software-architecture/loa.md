@@ -28,7 +28,7 @@ While the above may seem constraining, adopting the Library Oriented Architectur
 - Increase of the development speed
   - The development team doesn't have to know everything about the system. They just need to know the responsibilities of and the requirements for the library they are developing
   - Debugging is also easier
-- Increment of the _[[bus factor]]_
+- Increment of the _[[knowledge/others/bus-factor]]_
   - The less complex system, the higher bus factor is 🤷‍♂️
 - Minimized risk of [high coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)
   - especially in big, distributed systems

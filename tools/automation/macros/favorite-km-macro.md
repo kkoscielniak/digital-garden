@@ -37,7 +37,7 @@ The macro goes like that. Once the USB device that has `MPC` in name is attached
 The results should be shown in Keyboard Maestro's command output window (so I am sure everything went fine).
 
 The final macro looks like that:
-![Screenshot 2022-10-22 at 14.57.49](/public/km-sync-samples.png)
+![](/public/km-sync-samples.png)
 
 ## Summary
 

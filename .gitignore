@@ -2,3 +2,4 @@
 .vitepress/dist
 .obsidian
 node_modules
+.DS_Store
