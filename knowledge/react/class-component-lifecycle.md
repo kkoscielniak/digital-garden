@@ -10,7 +10,7 @@ It's lifecycle is split into 4 phases. It is created, rendered and mounted. Then
 
 ## Initialisation
 
-[React](/knowledge/react/index.md) component prepares setting up the initial `state` and default `props`.
+[React](knowledge/react/react.md) component prepares setting up the initial `state` and default `props`.
 
 ## Mounting
 

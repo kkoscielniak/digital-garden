@@ -20,7 +20,7 @@ Practically the basis of most smart contracts is:
 
 Smart contracts are immutable by design. Once they are deployed, they stay in their state permanently. Changing a contract requires a full redeploy. The redeploy also resets all the variables since newly deployed contract is treawted a **brand new contract**.
 
-New contract means **new address**, and both address and [ABI](/knowledge/web3/abi.md) have to be updated on the [index](/knowledge/web3/frontend/index.md) side.
+New contract means **new address**, and both address and [ABI](/knowledge/web3/abi.md) have to be updated on the [frontend](knowledge/web3/frontend/frontend.md) side.
 
 > [!tip] This can be solved
 >

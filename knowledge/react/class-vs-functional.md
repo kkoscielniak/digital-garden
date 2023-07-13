@@ -2,7 +2,7 @@
 title: Class vs Functional components
 ---
 
-We have 2 types of components in [React](/knowledge/react/index.md).
+We have 2 types of components in [React](knowledge/react/react.md).
 
 - [class-components](/knowledge/react/class-components.md)
 - functional components

@@ -8,7 +8,7 @@ Allows to control the state of the component depending on the retrieved data. He
 
 ## Example
 
-You need a [QueryClient](/knowledge/react/packages/react-query/queryclient.md) configured and a _query function_ (a function that returns a [Promise](//promise) that either resolves the data, or throws an error).
+You need a [QueryClient](/knowledge/react/packages/react-query/queryclient.md) configured and a _query function_ (a function that returns a [[knowledge/typescript/promise|promise]] that either resolves the data, or throws an error).
 
 ```jsx
 import { View, Text } from "react-native-web";

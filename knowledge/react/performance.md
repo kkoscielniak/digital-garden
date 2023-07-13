@@ -2,7 +2,7 @@
 title: Performance optimisation in React
 ---
 
-# Performance optimisation in [React](/knowledge/react/index.md)
+# Performance optimisation in [React](knowledge/react/react.md)
 - **minimize the number of updates**
 - use [react.Fragment](/knowledge/react/react.fragment.md) to optimize both [virtual-dom](/knowledge/react/virtual-dom.md) and the [real one](/knowledge/webdev/dom.md)
 - Virtualize long lists with [react-window](/knowledge/react/react-window.md) (or else)

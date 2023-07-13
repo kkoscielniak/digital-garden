@@ -11,7 +11,7 @@
   - We'll see the message of thrown error in console
   - We'll see the message in the browser window (big red text box)
   - We can close the message to see what will the users see in production code
-    - [React](/knowledge/react/index.md) won't know what to render instead of the erroneous component so it will render nothing
+    - [React](knowledge/react/react.md) won't know what to render instead of the erroneous component so it will render nothing
 
 ## Error boundary
 

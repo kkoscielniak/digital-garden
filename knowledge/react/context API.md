@@ -1,6 +1,6 @@
 ContextAPI allows to pass the reusable variables between the parents and the childrens without using props.
 
-> [!tip] Like the global variables, but in [React](knowledge/react/index.md).
+> [!tip] Like the global variables, but in [React](knowledge/react/react.md).
 
 ## Useful appliances
 

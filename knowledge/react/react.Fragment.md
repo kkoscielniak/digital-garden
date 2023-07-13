@@ -1,4 +1,4 @@
-[React](/knowledge/react/index.md)'s `Fragment` is a pseudo-component that groups all the children and doesn't return it's own structure.
+[React](knowledge/react/react.md)'s `Fragment` is a pseudo-component that groups all the children and doesn't return it's own structure.
 
 ```jsx
 <>

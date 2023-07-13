@@ -114,7 +114,7 @@ Matches:
 
 Regular Expressions aren't usable only for programming. They can be used to:
 
-- [[tools/automation/index|automating]] the e-mails management via Zapier/Make.com
+- [[tools/automation/automation|automating]] the e-mails management via Zapier/Make.com
   - labeling the e-mails
   - sending them to Todoist
 

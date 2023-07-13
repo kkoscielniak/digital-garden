@@ -2,7 +2,7 @@
 title: StrictMode
 ---
 
-[React](/knowledge/react/index.md)'s `StrictMode` is sort of a helper component that helps to write better react components by wrapping a set of components with `<StrictMode />`. It will:
+[React](knowledge/react/react.md)'s `StrictMode` is sort of a helper component that helps to write better react components by wrapping a set of components with `<StrictMode />`. It will:
 
 - Verify that the components inside are following some of the recommended practices and warn you if not in the console
 - Verify the deprecated methods are not being used, and if they're used strict mode will warn you in the console
