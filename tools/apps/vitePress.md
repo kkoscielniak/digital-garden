@@ -11,7 +11,7 @@ My gardening setup is basically pure VitePress with several plugins like:
 - `vitepress-sidebar`
 
 ## Tweaks
-- Use 
+- [Use `vitepress-sidebar` to have more control over multi-sidebars](https://github.com/kkoscielniak/digital-garden/commit/88560fb417c5138b192754e2581b20b0982e88dd)
 - [Extend default theme to display `$frontmatter.title` as H1 on every page](https://github.com/kkoscielniak/digital-garden/commit/ae956ba7eb2883a2e09056304290395a9d004128)
 
 ## Resources
