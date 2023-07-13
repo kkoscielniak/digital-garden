@@ -51,9 +51,9 @@ function prependLinks(data) {
         (_, text, url) => {
           // Prepend URL with '/' if it doesn't start with 'http'
           if (!url.startsWith("http") && !url.startsWith("/")) {
-            return `[${text}](/${url.tolowercase()})`;
+            return `[${text}](/${url.toLowerCase()})`;
           } else {
-            return `[${text}](/${url.tolowercase()})`;
+            return `[${text}](/${url.toLowerCase()})`;
           }
         }
       );
