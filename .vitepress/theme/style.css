@@ -89,3 +89,9 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
+/**
+  * Component: Sidebar
+  * -------------------------------------------------------------------------- */
+#VPSidebarNav .group section.VPSidebarItem.level-0:first-of-type {
+  padding-bottom: 10px;
+}

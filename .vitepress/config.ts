@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 import mdWikilinks from "markdown-it-wikilinks";
 import checkbox from "markdown-it-checkbox";
-import { generateSidebar } from "vitepress-sidebar";
+import { sidebar } from "./plugins/sidebar";
 
 export default defineConfig({
   base: "/",
@@ -9,20 +9,7 @@ export default defineConfig({
   description: "Things I know",
   ignoreDeadLinks: true,
   themeConfig: {
-    // nav: [{ text: "Home", link: "/" }],
-    sidebar: generateSidebar({
-      collapsed: true,
-      collapseDepth: 2,
-      useTitleFromFrontmatter: true,
-      capitalizeFirst: true,
-      excludeFolders: ["node_modules", "private"],
-      // convertSameNameSubFileToGroupIndexPage: true,
-      hyphenToSpace: true,
-      // includeRootIndexFile: true,
-      sortByFileName: ["about", "index.md"],
-      rootGroupText: "Home",
-      rootGroupLink: "/",
-    }),
+    sidebar,
     socialLinks: [
       { icon: "instagram", link: "https://instagram.com/pankoscielniak" },
       { icon: "github", link: "https://github.com/kkoscielniak" },
