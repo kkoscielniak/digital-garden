@@ -95,3 +95,14 @@
 #VPSidebarNav .group section.VPSidebarItem.level-0:first-of-type {
   padding-bottom: 10px;
 }
+
+/**
+  * Component: External Links
+  * -------------------------------------------------------------------------- */
+.external-link-icon-enabled :is(.vp-doc a[href*="://"], .vp-doc a[target="_blank"]) {
+  background-color: rgba(143, 159, 169, .15);
+}
+
+.external-link-icon-enabled :is(.vp-doc a[href*="://"], .vp-doc a[target="_blank"]):after {
+  content: none !important;
+}
