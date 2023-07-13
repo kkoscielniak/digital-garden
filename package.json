@@ -2,7 +2,8 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "fix-links": "node ./scripts/fix-md-links.js $(git diff --name-only --cached)"
   },
   "devDependencies": {
     "markdown-it-checkbox": "^1.1.0",
