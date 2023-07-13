@@ -3,7 +3,7 @@ title: yabai
 ---
 
 ::: warning
-This post was written for [Ahoy Community](https://ahoy.so) and has been translated using the GPT API. Also, I've changed my configuration a lot when I was configuring my latest [MacBook Pro](Tools/hardware/index.md#workstation).
+This post was written for [Ahoy Community](https://ahoy.so) and has been translated using the GPT API. Also, I've changed my configuration a lot when I was configuring my latest [[tools/hardware/hardware#Workstation|MacBook]].
 :::
 
 Ahoy! 👋
@@ -36,7 +36,7 @@ And thirdly, there are occasional inconsistencies in its operation, with some wi
 
 ### Virtual desktops level
 
-First and foremost, I see the greatest value in managing virtual desktops - I work on one [screen](Tools/hardware/index.md) and six virtual screens:
+First and foremost, I see the greatest value in managing virtual desktops - I work on one [screen](tools/hardware/hardware.md) and six virtual screens:
 
 - `www` - Arc Browser
 - `dev` - preview of the project I am currently working on, documentation, etc. (usually the second browser window)
