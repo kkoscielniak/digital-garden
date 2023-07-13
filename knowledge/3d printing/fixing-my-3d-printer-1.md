@@ -12,7 +12,7 @@ It got decallibrated, the straps went loose, the carriages went wobbly, the 3d-p
 
 But then I moved to another place and the saga continued. Loose straps, wobbly carriages, more and more retractions, Krystian pissed off. I've tried to fix that once again, but I've spent lots of time, money and energy and ultimately accomplished nothing. I packed up all the parts and left the topic for 2 years.
 
-I move out again, had a kid, and then I bought [Pocket C.H.I.P.](/linux/pocketchip/). It comes without casing and the keyboard is kinda shitty, so I looked up [Thingiverse](https://www.thingiverse.com/thing:1998427/files) for something I could 3d-print. If only I had the printer working.
+I move out again, had a kid, and then I bought [Pocket C.H.I.P.](/knowledge/linux/pocket-chip/pocket-chip). It comes without casing and the keyboard is kinda shitty, so I looked up [Thingiverse](https://www.thingiverse.com/thing:1998427/files) for something I could 3d-print. If only I had the printer working.
 
 ## Re-assembling the printer
 

@@ -41,8 +41,6 @@ Useful for timeout to any promise. We can just pass another promise that will th
 
 ## Resources
 
+- [[knowledge/typescript/async-await|Async and Await]]
 - [Promise @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Using Promises @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
-
-[[private/v6-old-obsidian-publish/Projects/⚛️ kurs-reacta-pl/callback]]
-[[knowledge/typescript/async-await]]

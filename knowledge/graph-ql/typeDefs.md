@@ -70,7 +70,7 @@ In [GraphQL](/knowledge/graph-ql/graph-ql.md) enums are `String`s (not `Integer`
 
 ### Object types
 
-We cannot create nested types like in [[typescript]] - we need to define flat types and reuse them later:
+We cannot create nested types like in TypeScript - we need to define flat types and reuse them later:
 
 ```graphql
 type Quote {

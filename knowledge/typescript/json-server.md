@@ -4,7 +4,7 @@ title: json-server
 
 **Perfect for mocking**
 
-`npm install json-server`. Serves `json` file and [[REST API]] accessing this `json`
+`npm install json-server`. Serves `json` file and REST API accessing this `json`.
 
 - HTTP methods
 - pagination: `/?_limit=2&_page=2`

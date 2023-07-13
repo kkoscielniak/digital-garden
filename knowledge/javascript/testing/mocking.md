@@ -5,7 +5,7 @@ weight: 2
 
 Mocking is used to enable testing modules that depend (as in _dependency_) on another modules, that we don't want to _really_ use, e.g. credit card service.
 
-We may not want to do any requests with a credit card service, so we can mock it (btw making its behavior [deterministic](/deterministic)).
+We may not want to do any requests with a credit card service, so we can mock it (btw making its behavior deterministic).
 
 ## Monkey patching
 
