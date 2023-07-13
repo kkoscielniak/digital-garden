@@ -21,4 +21,4 @@ pushd $LFS/sources
 popd
 ```
 
-That's how I knew I'm missing [`expat-2.4.8.tar.xz`](/https://github.com/libexpat/libexpat/releases/download/r_2_4_8/expat-2.4.8.tar.xz) (because it was moved from SourceForge to GitHub) and `zlib-1.2.12.tar.xz` (an update became available, so I've downloaded this particular version from [here](/https://www.zlib.net/fossils/); since no `xz` archive is available, I wasn't able to check the MD5 sum for this one. We'll see how it goes).
+That's how I knew I'm missing [`expat-2.4.8.tar.xz`](https://github.com/libexpat/libexpat/releases/download/r_2_4_8/expat-2.4.8.tar.xz) (because it was moved from SourceForge to GitHub) and `zlib-1.2.12.tar.xz` (an update became available, so I've downloaded this particular version from [here](https://www.zlib.net/fossils/); since no `xz` archive is available, I wasn't able to check the MD5 sum for this one. We'll see how it goes).
