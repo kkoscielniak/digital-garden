@@ -6,7 +6,7 @@ Form validation package
 
 ## How to use
 
-1. Define a [[validation schema]].
+1. Define a validation schema.
 
 ```jsx
 import * as Yup from 'yup';
