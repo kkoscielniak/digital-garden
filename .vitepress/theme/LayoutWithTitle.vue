@@ -6,7 +6,7 @@
           {{ $frontmatter.title }}
           <a 
             class="header-anchor" 
-            v-bind:href="path"
+            href="#"
           ></a>
         </h1>
       </div>
