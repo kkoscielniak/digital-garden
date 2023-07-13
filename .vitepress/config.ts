@@ -9,6 +9,7 @@ export default defineConfig({
   description: "Things I know",
   ignoreDeadLinks: true,
   themeConfig: {
+    externalLinkIcon: true,
     sidebar,
     socialLinks: [
       { icon: "instagram", link: "https://instagram.com/pankoscielniak" },
