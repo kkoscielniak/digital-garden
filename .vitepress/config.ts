@@ -29,6 +29,7 @@ export default defineConfig({
     config: (md) => {
       const wikilinks = mdWikilinks({
         makeAllLinksAbsolute: true,
+        postProcessLabel: (label) => label.split("/").pop(),
       });
 
       md.use(wikilinks).use(checkbox);
