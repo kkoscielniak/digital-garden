@@ -1,4 +1,4 @@
-Every Android app has a default "main" [[private/v1/Coding/Glossary/Threading/Thread]]. This is (usually) the UI thread.
+Every Android app has a default "main" [[knowledge/threads/thread]]. This is (usually) the UI thread.
 
 ## Creating and running multiple threads
 

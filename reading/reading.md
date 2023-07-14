@@ -44,7 +44,7 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 - 📱 The Subtle Art Of Not Giving A Fuck - Mark Manson
 - 📱 The Bullet Journal Method - Ryder Carroll
 - 📱 Manhood: How to Be a Better Man-or Just Live with One - Terry Crews - ⭐️⭐️⭐️⭐️
-- 📕 Create or Hate 🇵🇱 - Dan Norris - ⭐️⭐️
+- 📕 [[reading/booknotes/create-or-hate|Create or Hate]] 🇵🇱 - Dan Norris - ⭐️⭐️
 
 ## Earlier
 

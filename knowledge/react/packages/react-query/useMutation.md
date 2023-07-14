@@ -50,7 +50,7 @@ const mutation = useMutation(addArticle, { retry: 3 });
 
 ## Methods inside of `useMutation` options
 
-- `onMutate` - fires before `useMutation`. Useful when you want to run [[private/v1/Coding/Glossary/Optimistic updates|Optimistic updates]] on local cache and update data on the UI side before updating them on the server.
+- `onMutate` - fires before `useMutation`. Useful when you want to run [[knowledge/others/optimistic-updates|optimistic-updates]] on local cache and update data on the UI side before updating them on the server.
 - `onSuccess` - fires when the mutation is successful
 - `onError` - fires when the mutation encounters an error
   - a common practice is to set cache to previous data in such case

@@ -1,4 +1,4 @@
-Starts a new [[knowledge/kotlin/Coroutines|coroutine]] and **blocks the current [[private/v1/Coding/Glossary/Threading/Thread]]** until completion.
+Starts a new [[knowledge/kotlin/Coroutines|coroutine]] and **blocks the current [[knowledge/threads/thread]]** until completion.
 
 Mainly used to bridge between blocking and non-blocking code in the main functions and tests.
 
