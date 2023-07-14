@@ -1,6 +1,7 @@
 ---
 title: Challenges with Threads
 ---
+
 ## They require lots of resources
 
 Creating, switching, and managing [[knowledge/threads/thread|threads]] takes up system resources quickly. Time limiting the raw number of threads that can be managed at the same time. The costs of creation can really add up.

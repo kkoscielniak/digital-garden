@@ -1,6 +1,7 @@
 ---
 title: Concurrency
 ---
+
 Allows multiple units of code to execute out of order or seemingly in parallel permitting more efficient use of resources. The operating system can use characteristics of the system, programming language, and concurrency unit to manage multitasking.
 
 ![[private/v6-old-obsidian-publish/_assets/concurrency.png]]

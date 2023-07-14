@@ -49,9 +49,18 @@ RUN
   - I got that one from Nokia for free as a reward for [building apps for Windows Phone](https://www.jankowskimichal.pl/2013/11/dvlup-czyli-jak-dostac-nowa-nokie/) 💪
 - iPhone 5C
 - Samsung Galaxy Note 4
+  - Shortly, I managed to live with Android for few months
 - iPhone 7
 - iPhone X
   - My mama is using it right now and she's never had any issues with it
+
+## Tablets
+
+- Lenovo A1
+  - this one was a huge mistake
+- Samsung Galaxy Tab 2
+- iPad Pro 10.5"
+  - with Apple Pencil and Paperlike
 
 ## Smartwatches
 

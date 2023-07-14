@@ -45,4 +45,5 @@ When `userLevel` is initialized it’s done in such a way that every possible 
 It doesn't matter whether it’s a random Ethereum user’s MetaMask address who perhaps has never even heard of the game before, or maybe an arbitrary smart contract on the Ethereum blockchain doing something totally unrelated. Our mapping still maps them to a _value whose byte-representation are all zeros_.
 
 ## Resources
+
 - [Mappings in Solidity Explained in Under Two Minutes | by Doug Crescenzi | Upstate Interactive | Medium](https://medium.com/upstate-interactive/mappings-in-solidity-explained-in-under-two-minutes-ecba88aff96e)
