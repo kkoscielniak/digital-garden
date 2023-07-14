@@ -19,4 +19,4 @@ In order to map these two identifiers together (IP and MAC), The ARP protocol se
 2. If the device does have the requested IP address, an `ARP Reply` is returned to the initial device to acknowledge this.
 3. The initial device stores the IP it within its cache (as an ARP entry).
 
-This process aims to get the MAC address so that communication over the [](/private/cybersec/networking/osi%20model#layer%202:%20data%20link) becomes possible (it's a Layer 2 protocol).
+This process aims to get the MAC address so that communication over the OSI Data Link layer becomes possible (it's a Layer 2 protocol).
