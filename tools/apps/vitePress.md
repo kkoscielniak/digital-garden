@@ -22,3 +22,4 @@ My gardening setup is basically pure VitePress with several plugins like:
 - [Backlinks example](https://www.yuchanns.xyz/)
   - https://github.com/yuchanns/yuchanns/tree/vpzk-v2/site/.vitepress/theme/
 - [gcoda/vuepress-backlinks: BackLinks are links from a page back to pages that link to it.](https://github.com/gcoda/vuepress-backlinks)
+- [andymatuschak/note-link-janitor: Maintains backlink structure among interlinked Markdown notes](https://github.com/andymatuschak/note-link-janitor)
