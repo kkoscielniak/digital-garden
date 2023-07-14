@@ -2,7 +2,7 @@
 title: Side Effects
 ---
 
-Everything that happens inside function but is not returned by it. 
+Everything that happens inside function but is not returned by it.
 
 - `printf` etc.
 - audio
@@ -10,7 +10,7 @@ Everything that happens inside function but is not returned by it.
 - mutation of local static variables, non-local variables,
 - mutable reference arguments or input/output streams.
 
-A funciton without any side effects is  called [[knowledge/others/pure-fn|pure function]].
+A funciton without any side effects is called [[knowledge/others/pure-fn|pure function]].
 
 ## Side effects in [[knowledge/react/react|React]]
 

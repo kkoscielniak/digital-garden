@@ -175,13 +175,13 @@ test("calls reportError and renders that there was a problem", () => {
   const { rerender } = render(
     <ErrorBoundary>
       <Bomb />
-    </ErrorBoundary>
+    </ErrorBoundary>,
   );
 
   rerender(
     <ErrorBoundary>
       <Bomb shouldThrow={true} />
-    </ErrorBoundary>
+    </ErrorBoundary>,
   );
 
   const error = expect.any(Error);
@@ -220,7 +220,7 @@ test("calls reportError and renders that there was a problem, then recovers from
   rerender(
     <ErrorBoundary>
       <Bomb />
-    </ErrorBoundary>
+    </ErrorBoundary>,
   );
 
   userEvent.click(screen.getByText(/try again/i));
@@ -318,7 +318,7 @@ function GreetingLoader() {
   async function loadGreetingForInput(e) {
     e.preventDefault();
     const { data }: { data: { greeting: string } } = await loadGreeting(
-      e.target.elements.name.value
+      e.target.elements.name.value,
     );
     setGreeting(data.greeting);
   }
@@ -362,7 +362,7 @@ test("loads greetings on click", async () => {
 
   // waitFor uses `act()` for state updates for us
   await waitFor(() =>
-    expect(screen.getByLabelText(/greeting/i)).toHaveTextContent(testGreeting)
+    expect(screen.getByLabelText(/greeting/i)).toHaveTextContent(testGreeting),
   );
 });
 ```
@@ -387,7 +387,7 @@ import { GreetingLoader } from "../greeting-loader-01-mocking";
 const server = setupServer(
   rest.post("/greeting", (req, res, ctx) => {
     return res(ctx.json({ data: { greeting: `Hello ${req.body.subject}` } }));
-  })
+  }),
 );
 
 beforeAll(() => server.listen({ onUnhandledRequest: "error" })); // start the server
@@ -402,7 +402,7 @@ test("loads greetings on click", async () => {
   await userEvent.type(nameInput, "Mary");
   await userEvent.click(loadButton);
   await waitFor(() =>
-    expect(screen.getByLabelText(/greeting/i)).toHaveTextContent("Hello Mary")
+    expect(screen.getByLabelText(/greeting/i)).toHaveTextContent("Hello Mary"),
   );
 });
 ```

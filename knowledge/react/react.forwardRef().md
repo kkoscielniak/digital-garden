@@ -1,8 +1,6 @@
 # `forwardRef()`
 
-
-
-Forwarding the [refs](/knowledge/react/refs.md). 
+Forwarding the [refs](/knowledge/react/refs.md).
 
 React treats `ref` in a special way. It does not pass `ref` with the rest of the props.
 

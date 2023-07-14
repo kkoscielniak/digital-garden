@@ -1,6 +1,7 @@
 ---
 title: yarn vs npm
 ---
+
 ## Major differences
 
 - resolution algorithm

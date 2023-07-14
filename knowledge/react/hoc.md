@@ -34,7 +34,8 @@ HOCs have advantages, such as:
   - allowing to focus on [Presentational components](/knowledge/react/containers-vs-presentation-components.md)
 - they simplify testing the application
 
-They also have drawbacks: 
+They also have drawbacks:
+
 - every HOC is another level in the hierarchy that gets rendered but may not add anything important to the hierarchy. It makes the [DOM](/knowledge/webdev/dom.md) messy
 
 > [!danger] We can nest HOC wrapping, but we need to be mindful about the order of nested HOCs

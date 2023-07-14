@@ -2,4 +2,4 @@
 
 ## `React.Children.count(children)`
 
-Tells how much children have been passed. 
+Tells how much children have been passed.

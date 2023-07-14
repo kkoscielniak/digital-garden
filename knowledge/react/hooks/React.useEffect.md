@@ -1,6 +1,6 @@
 # `React.useEffect` hook
 
-The `useEffect` hook is used for handling the [[knowledge/others/side-effects#Side effects in React]] when the time is safe. 
+The `useEffect` hook is used for handling the [[knowledge/others/side-effects#Side effects in React]] when the time is safe.
 
 `useEffect` will call the callback with side effect sometime after the rendering is finished, whenever it will think it's safe to do that. Without passing an array of dependencies, `useEffect`s callback is called on **every render**.
 

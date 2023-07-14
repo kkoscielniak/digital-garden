@@ -1,5 +1,6 @@
 # `useReducer` hook
-Provides basic Redux-like functionality to the component. 
+
+Provides basic Redux-like functionality to the component.
 
 ```js
 function cartReducer(prevCart, action) {

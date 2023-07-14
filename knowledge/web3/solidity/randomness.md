@@ -1,7 +1,9 @@
 ---
 title: Randomness
 ---
+
 ## Random number generation via `keccak256`
+
 The best source of randomness we have in Solidity is the `keccak256` hash function.
 
 We could do something like the following to generate a random number:

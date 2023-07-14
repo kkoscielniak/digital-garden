@@ -4,10 +4,7 @@
       <div class="vp-doc">
         <h1 v-if="!$frontmatter.customHeader">
           {{ $frontmatter.title }}
-          <a 
-            class="header-anchor" 
-            href="#"
-          ></a>
+          <a class="header-anchor" href="#"></a>
         </h1>
       </div>
     </template>
@@ -15,8 +12,8 @@
 </template>
 
 <script setup>
-import { useRoute } from 'vitepress';
-import Theme from 'vitepress/theme'
+import { useRoute } from "vitepress";
+import Theme from "vitepress/theme";
 const Layout = Theme.Layout;
 const { path } = useRoute();
 </script>

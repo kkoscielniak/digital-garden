@@ -23,7 +23,7 @@ There are various different editions of Burp Suite available:
     - Burp Suite Collaborator (a unique request catcher self-hosted/running on a Portswigger server)
     - $399/user/year
 - Burp Suite Enterprise
-  - used for automated, continuous scanning (periodically), similarly to how _Nessus_ performs automated infrastructure scanning
+  - used for automated, continuous scanning (periodically), similarly to how *Nessus* performs automated infrastructure scanning
 
 ## Burp Suite Community features
 

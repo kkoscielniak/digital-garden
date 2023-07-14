@@ -7,4 +7,5 @@ Tried steganography tools online first with no results.
   - The file is in fact a PNG, not a JPG.
 
 ## Resources
+
 - https://dmfrsecurity.com/2021/08/24/picoctf-2021-matryoshka-doll-writeup/

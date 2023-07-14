@@ -2,7 +2,7 @@
 title: Kindle
 ---
 
-I read mostly in Kindle app on the [[tools/hardware/iPad|iPad]] or the [[tools/hardware/iPhone|iPhone]] (this concerns bought both on and off Amazon). 
+I read mostly in Kindle app on the [[tools/hardware/iPad|iPad]] or the [[tools/hardware/iPhone|iPhone]] (this concerns bought both on and off Amazon).
 
 Thanks to Amazon's _ecosystem_ I can keep the books and the highlights in sync, export them (rather) easily and process whenever the need arises.
 

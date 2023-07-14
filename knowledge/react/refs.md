@@ -31,7 +31,7 @@ const MyInput = forwardRef((props, ref) => {
 });
 ```
 
-See more: [react.forwardRef()](/knowledge/react/react.forwardref().md)
+See more: [react.forwardRef()](</knowledge/react/react.forwardref().md>)
 
 ## Caveats
 

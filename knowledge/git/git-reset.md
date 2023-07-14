@@ -1,6 +1,7 @@
 ---
 title: git reset
 ---
+
 `git reset` moves the current HEAD to the commit specified:
 
 ```sh

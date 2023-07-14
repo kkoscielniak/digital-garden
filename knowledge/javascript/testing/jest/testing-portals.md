@@ -39,7 +39,7 @@ test("modal shows the children", () => {
   render(
     <Modal>
       <div data-testid="test" />
-    </Modal>
+    </Modal>,
   );
   const { getByTestId } = within(document.getElementById("modal-root"));
   expect(getByTestId("test")).toBeInTheDocument();

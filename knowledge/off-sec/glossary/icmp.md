@@ -2,6 +2,7 @@
 title: ICMP
 customHeader: true
 ---
+
 # Internet Control Message Protocol
 
 `/* [...] */`

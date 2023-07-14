@@ -4,7 +4,8 @@ Composes the advanced logic based on hooks into one hook.
 
 For the custom hook to be defined correctly it has to have a name starting with `use...` ([[knowledge/react/hooks/hook-rules]])
 
-## Resources 
+## Resources
+
 - [Docs](https://reactjs.org/docs/hooks-custom.html)
 
 ## Example: `useFibonacci`
@@ -36,7 +37,7 @@ function useFibonacci(initialN) {
       next: prev + current,
     };
   }
-  
+
   function incrementN() {
     setN((prevN) => {
       const newN = prevN + 1;
@@ -48,7 +49,7 @@ function useFibonacci(initialN) {
       return newN;
     });
   }
-  
+
   function decrementN() {
     setN((prevN) => {
       const newN = prevN - 1;
@@ -60,7 +61,7 @@ function useFibonacci(initialN) {
       return newN;
     });
   }
-  
+
   function resetN() {
     setN(initialN);
     setFibs(getInitialFibs);

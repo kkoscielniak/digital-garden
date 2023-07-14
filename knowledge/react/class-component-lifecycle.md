@@ -4,7 +4,7 @@ title: Class component's lifecycle
 
 For [class-components](/knowledge/react/class-components.md):
 
-The [class component](/knowledge/react/class-components.md)'s instance is _alive_ all the time. We can call the side effects in its lifecycle methods. 
+The [class component](/knowledge/react/class-components.md)'s instance is _alive_ all the time. We can call the side effects in its lifecycle methods.
 
 It's lifecycle is split into 4 phases. It is created, rendered and mounted. Then it gets re-rendered (updated), usually several times. Ultimately, at some point it gets unmounted.
 

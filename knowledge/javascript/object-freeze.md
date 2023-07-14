@@ -1,6 +1,7 @@
 ---
 title: Object.freeze
 ---
+
 ```js
 Object.freeze({
   ROUTE_1: "route_1",

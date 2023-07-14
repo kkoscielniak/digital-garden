@@ -15,5 +15,5 @@ I try to keep the list of installed apps intact, to not lose the purpose of havi
 
 ## Others
 
-I use a 3rd party paper-like screen protector from [Nillkin](https://nillkin.org/tablet-accessories/apple-tablets-accessories/apple-ipad-mini-6-accessories/nillkin-apple-ipad-mini-6-2021-ag). 
-It is cheaper than the original Paperlike, yet it seems to be of better quality (I've used OG Paperlike on my previous iPad). 
+I use a 3rd party paper-like screen protector from [Nillkin](https://nillkin.org/tablet-accessories/apple-tablets-accessories/apple-ipad-mini-6-accessories/nillkin-apple-ipad-mini-6-2021-ag).
+It is cheaper than the original Paperlike, yet it seems to be of better quality (I've used OG Paperlike on my previous iPad).

@@ -13,4 +13,5 @@ Adapter wraps one of the objects to hide the complexity of conversion. The wrapp
 This implementation uses the object composition principle: the adapter implements the interface of one object and wraps the other one.
 
 ## Resources
+
 - [Refactoring Guru](https://refactoring.guru/design-patterns/adapter)

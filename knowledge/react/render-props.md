@@ -2,7 +2,7 @@
 title: Render props
 ---
 
-_Render props_ is a technique for sharing the code between React components by using a function as a prop value. 
+_Render props_ is a technique for sharing the code between React components by using a function as a prop value.
 
 The idea is to pass a **function** rendering the [presentational component](/knowledge/react/containers-vs-presentation-components.md) as a child `prop`, making the parent responsible for maintaining the rendering logic.
 
@@ -19,7 +19,7 @@ const Cat = ({ mouse }) => (
 
 const Mouse = ({ render }) => <div style={{ ... }}>
 	{render}
-</div>; 
+</div>;
 
 class MouseTracker extends React.Component {
   render() {

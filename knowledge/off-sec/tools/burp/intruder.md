@@ -119,7 +119,7 @@ Pitchfork takes the first item from each list and puts them into the request, on
 
 Ideally, our payload sets should be identical lengths.
 
-This attack type is exceptionally useful when forming things like ***credential stuffing*** attacks.
+This attack type is exceptionally useful when forming things like **_credential stuffing_** attacks.
 
 ### Cluster Bomb
 

@@ -1,10 +1,11 @@
 # Code Splitting
 
-_Code splitting_ is an optimisation technique in [React](knowledge/react/react.md). It's splitting the application into chunks that are loaded upon request (whenever they are needed). 
+_Code splitting_ is an optimisation technique in [React](knowledge/react/react.md). It's splitting the application into chunks that are loaded upon request (whenever they are needed).
 
 Like every advanced optimisation technique it's wise to use it sparingly. Too many chunks mean the app needs to make too many requests for them which may render the app slower than intended.
 
-## Webpack 
+## Webpack
+
 Webpack bundles all the files into one or more compressed and minified JS files.
 
 By default `create-react-app` configures webpack that the code is returned in several files.

@@ -18,7 +18,7 @@ Although TCP and UDP are transport layers, for network scanning purposes, a sc
 
 When no host discovery options are provided, Nmap follows the following approaches to discover live hosts:
 
-1.  When a *privileged* user tries to scan targets on a local network (_Ethernet_), Nmap uses [[knowledge/networks/address-resolution-protocol|ARP]] requests. A privileged user is `root` or a user who belongs to _sudoers_.
+1.  When a *privileged* user tries to scan targets on a local network (_Ethernet_), Nmap uses [[knowledge/networks/address-resolution-protocol|ARP]] requests. A privileged user is `root` or a user who belongs to *sudoers*.
 2.  When a *privileged* user tries to scan targets outside the local network, Nmap uses [[knowledge/off-sec/glossary/icmp]] `echo` requests, TCP ACK (Acknowledge) to port 80, TCP SYN (Synchronize) to port 443, and ICMP `timestamp` request.
 3.  When an *unprivileged* user tries to scan targets outside the local network, Nmap resorts to a TCP 3-way handshake by sending SYN packets to ports 80 and 443.
 

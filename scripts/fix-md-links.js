@@ -55,7 +55,7 @@ function prependLinks(data) {
           } else {
             return `[${text}](/${url.toLowerCase()})`;
           }
-        }
+        },
       );
 
       lines[i] = modifiedLine;

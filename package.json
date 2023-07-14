@@ -3,11 +3,13 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
+    "format": "prettier --write .",
     "fix-links": "node ./scripts/fix-md-links.js $(git diff --name-only --cached)"
   },
   "devDependencies": {
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-wikilinks": "^1.3.0",
+    "prettier": "^3.0.0",
     "vitepress": "^1.0.0-beta.5",
     "vitepress-sidebar": "^1.8.1",
     "vue": "^3.3.4"
