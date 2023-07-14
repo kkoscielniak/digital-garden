@@ -1,6 +1,5 @@
 ---
 title: LFI CTF #1
-weight: 1
 ---
 
 [Link to the exercise](https://tryhackme.com/room/fileinc)
@@ -15,7 +14,7 @@ After spinning up the VM, I've opened the `/challenges/chall1.php` to see that `
 
 I've opened Postman app (provided by THMs AttackBox) and called the PHP script with `file` request parameter:
 
-![Screenshot 2023-01-04 at 16.14.43](/public/Screenshot%202023-01-04%20at%2016.14.43.png)
+![](/public/lfi-ctf-1.png)
 
 ## Flag
 

@@ -1,6 +1,5 @@
 ---
 title: LFI CTF 3
-weight: 3
 ---
 
 [Link to the exercise](https://tryhackme.com/room/fileinc)
@@ -25,7 +24,7 @@ I've ran Burp Suite to intercept the `GET` request sent from the website form an
 
 So I've tried to include `/etc/flag3%00` (flag file with [null-byte](knowledge/off-sec/pentesting/null-byte.md)) with success:
 
-![Screenshot 2023-01-04 at 20.41.45 1](/public/Screenshot%202023-01-04%20at%2020.41.45%201.png)
+![](/public/lfi-ctf-3.png)
 
 ## Flag
 
