@@ -32,7 +32,7 @@ yabai -m rule --add subrole="^AXSystemDialog$" manage=off mouse_follows_focus=of
 
 ## Fix Arc Browser for Keyboard Maestro
 
-By default [[tools/apps/keyboard-maestro|Keyboard Maestro]] does not recognise Arc Browser for browser-related actions. This can be fixed with:
+By default [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]] does not recognise Arc Browser for browser-related actions. This can be fixed with:
 
 ```sh
 defaults write com.stairways.keyboardmaestro.engine AppleScriptGoogleChromeBundleID -string "company.thebrowser.Browser"
@@ -41,7 +41,7 @@ defaults write com.stairways.keyboardmaestro.engine BrowserGoogleChromeName -str
 
 ## Arc Browser and AppleScript
 
-The Browser Company released basic AppleScript support for Arc, that can be used in [[tools/apps/keyboard-maestro|Keyboard Maestro]] macros:
+The Browser Company released basic AppleScript support for Arc, that can be used in [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]] macros:
 
 ```applescript
 set KM_URL to ""

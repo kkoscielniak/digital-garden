@@ -1,5 +1,5 @@
 - [[tools/apps/arc|Arc Browser]]
-- [[tools/apps/keyboard-maestro|Keyboard Maestro]]
+- [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]]
 - [[tools/apps/kindle|Kindle (app)]]
 - [[tools/apps/neovide|Neovide]]
 - [[tools/apps/obsidian|Obsidian]]

@@ -9,7 +9,7 @@ I automate mundane and repetitive tasks as often as possible through both softwa
 
 ## Tools I use
 
-- [[tools/apps/keyboard-maestro|Keyboard Maestro]]
-- [[tools/hardware/hardware#Workstation|Elgato Stream Deck 2]]
-- [[tools/apps/raycast|Raycast]]
+- [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]]
 - [[tools/automation/shortcuts/shortcuts|Shortcuts]]
+- [[tools/apps/raycast|Raycast]]
+- [[tools/hardware/stream-deck|stream-deck|Elgato Stream Deck 2]]

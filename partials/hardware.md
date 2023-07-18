@@ -5,7 +5,7 @@
 - [[tools/hardware/philips-ultrawide|Philips 34" Ultra-wide display]]
 - [[tools/hardware/keychron|Keychron K2 (v2)]]
 - Logitech MX Master 2S
-- Elgato Stream Deck 2
+- [[tools/hardware/stream-deck|Elgato Stream Deck 2]]
 - Logitech C920 Webcam
 - beierdynamic DT 770 Pro wired headphones
 

@@ -9,7 +9,7 @@ customHeader: true
 
 This was bothersome, because most of the time, whenever the inspiration hit or I had a minute to tinker with music, I needed to connect the MPC to the computer, manually copy the sample packs I've downloaded to the precise location on my MPC SSD, keeping in mind the naming scheme, directory structure, etc. instead of making music.
 
-Fortunately, [Keyboard Maestro](/tools/apps/keyboard-maestro.md) has this feature to trigger a macro once the drive is attached, and the macro itself can be a command line. This way I can automate the process (to some extent) to sync the `~/Desktop/Beatmaker` directory to my MPC Live.
+Fortunately, [Keyboard Maestro](tools/automation/keyboard-maestro/keyboard-maestro.md) has this feature to trigger a macro once the drive is attached, and the macro itself can be a command line. This way I can automate the process (to some extent) to sync the `~/Desktop/Beatmaker` directory to my MPC Live.
 
 > [!tip] Note to self: Buy Hazel
 >
