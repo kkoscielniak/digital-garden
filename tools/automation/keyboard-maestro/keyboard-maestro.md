@@ -8,7 +8,7 @@ I call the Keyboard Maestro macros with hotkeys, from [[tools/hardware/stream-de
 
 ## Things I automate
 
-- [[copying currently opened URL]] in Markdown format
+- [[tools/automation/keyboard-maestro/macros/arc-url-md|copying currently opened URL]] in Markdown format
 - [[tools/automation/keyboard-maestro/macros/favorite-km-macro|copying samples to my MPC Live]] once I connect it to my computer
 - googling the selected text with **⌘ ⇧ 1**
 - opening Google Maps with the route and ETA to provided destination

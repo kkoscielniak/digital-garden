@@ -5,5 +5,5 @@
 - [[tools/apps/obsidian|Obsidian]]
 - [[tools/apps/raycast|Raycast]]
 - [[tools/apps/session|Session]]
-- [[tools/apps/vitePress|VitePress]]
+- [[tools/apps/vite-press|VitePress]]
 - [[tools/apps/vs-code|VS Code]]
