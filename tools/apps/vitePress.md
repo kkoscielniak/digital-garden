@@ -10,6 +10,7 @@ My gardening setup is basically pure VitePress with several plugins like:
 
 - `markdown-it-checkbox`
 - `markdown-it-wikilinks`
+- `markdown-it-include`
 - `vitepress-sidebar`
 
 ## Tweaks

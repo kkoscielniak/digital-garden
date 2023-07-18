@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 import mdWikilinks from "markdown-it-wikilinks";
-import checkbox from "markdown-it-checkbox";
+import mdCheckbox from "markdown-it-checkbox";
+import mdInclude from "markdown-it-include";
 import { sidebar } from "./plugins/sidebar";
 
 export default defineConfig({
@@ -15,6 +16,7 @@ export default defineConfig({
       prev: false,
     },
     externalLinkIcon: true,
+    nav: [{ text: "/uses", link: "/uses" }],
     sidebar,
     socialLinks: [
       { icon: "instagram", link: "https://instagram.com/pankoscielniak" },
@@ -32,7 +34,7 @@ export default defineConfig({
         postProcessLabel: (label) => label.split("/").pop(),
       });
 
-      md.use(wikilinks).use(checkbox);
+      md.use(wikilinks).use(mdCheckbox).use(mdInclude, "partials");
     },
   },
   head: [
