@@ -6,6 +6,10 @@ title: ADHD
 >
 > ~ [Amanda Perry](https://www.instagram.com/p/CttC0pXM6ht/)
 
+In January, 2023 I've been late-diagnosed with ADHD. It immediately became the focal point of my _research on_ _myself_ and how I can improve my wellbeing with this syndrome in mind.
+
+This also means that my ADHD journey will become a recurring theme on this site.
+
 ## Resources
 
 - ❗[Making ADHD your superpower](https://www.youtube.com/watch?app=desktop&v=I9LRSgxbQqM)

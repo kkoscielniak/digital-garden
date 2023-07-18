@@ -3,7 +3,7 @@ title: yabai
 ---
 
 ::: warning
-This post was written for [Ahoy Community](https://ahoy.so) and has been translated using the GPT API. Also, I've changed my configuration a lot when I was configuring my latest [[tools/hardware/hardware#Workstation|MacBook]].
+This post was written for [Ahoy Community](https://ahoy.so) and has been translated using the GPT API. Also, I've changed my configuration a lot when I was configuring my latest [[tools/hardware/macbook|MacBook]].
 :::
 
 Ahoy! 👋

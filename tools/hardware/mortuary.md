@@ -68,6 +68,6 @@ I've never owned an ordinary watch.
 
 - Pebble Steel
   - This one was soo nice!
-  - https://rebble.dev
+  - https://rebble.io
 - Apple Watch 4 42mm Nike Edition
   - Replaced it with AW Ultra (1 gen.) due to lasting less than full day (at the battery condition of 73%)
