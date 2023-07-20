@@ -4,6 +4,9 @@ title: Session
 
 [Session](https://www.stayinsession.com/) is a _pomodoro_ timer I use for day-to-day work.
 
-- The pomodoro technique is the basic one recommended for [[knowledge/adhd|ADHD]] people.
+::: info
+The pomodoro technique is the basic one recommended for [[knowledge/adhd|ADHD]] people.
+:::
 
-It has the [[tools/automation/automation|automation]] features that I want to implement to my workflow.
+I've automated toggling between Focus and Break modes with a [[tools/automation/shortcuts/toggle-session|Shortcut]] ran from
+my [[tools/hardware/stream-deck|Stream Deck]].

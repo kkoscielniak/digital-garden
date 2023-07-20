@@ -12,4 +12,4 @@ I automate mundane and repetitive tasks as often as possible through both softwa
 - [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]]
 - [[tools/automation/shortcuts/shortcuts|Shortcuts]]
 - [[tools/apps/raycast|Raycast]]
-- [[tools/hardware/stream-deck|stream-deck|Elgato Stream Deck 2]]
+- [[tools/hardware/stream-deck|Elgato Stream Deck 2]]

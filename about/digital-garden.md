@@ -3,28 +3,40 @@ title: Digital Garden
 ---
 
 > For the most part I just wing it ad hoc and hope for the best. 😅
-> ~ Joel Hooks
+> ~ [Joel Hooks](https://joelhooks.com/digital-garden)
 
-## _Digital_ what?
+## Digital what?
 
-This site is a [digital garden](https://joelhooks.com/digital-garden/), not a blog. I keep it mostly for myself, but I suppose it might be helpful to others as well.
+This site is a [digital garden](https://joelhooks.com/digital-garden/) of mine. Basically it's a bunch of short notes stitched together into something bigger.
 
-The goal of this project is to be a living reference of what I've learnt, what I am interested in and what skills I actually have.
+The main goals of this project are:
 
-The main value is not in the carefully crafted blog posts full of anectodes, graphs, opinions and else. Instead, it lies in _linking my thinking_. Recently I learn a lot and I want to find patterns that will help me to improve in my field of expertise.
+- having a living documentation on what I've learnt and what I am interested in
+  - this might be interesting for recruiters 😉
+- share that knowledge with others
+  - people quite often ask me about _things_, this garden allows me to immediately point them to my notes
+- linking my thinking
+  - tools like [[tools/apps/obsidian|Obsidian]] allow me to quickly find links between notes that gradually combine into new ways of thinking, ultimately helping me to thrive in my field of expertise
+- improving my _writing game_
+  - even though these notes are rather short, they still need to be readable
 
-## Non-linearity
+All of that without having to write catchy blog posts, dealing with comments, SEO and all of that crap.
 
-Due to a _non-linear_ nature of this site, I might post here ideas, snippets, resources, thoughts, bits of knowledge, projects of mine or basically anything I find interesting and relating to the rest of the content here. It's basically my own, basic Wikipedia.
+::: warning
+I keep this garden **mostly for myself**. I guess I enjoy writing 🤷‍♂️
+On the other hand, **sharing is caring**. It's quite possible you'll get some value from whatever you find here.
+:::
 
-This also means not everything is going to be well-writen, perfectly organised, or even truthy. Things change, I change, JavaScript frameworks change. It's hard to keep up sometimes and people make mistakes.
+## Messy by design
 
-The good part is that the whole thing is [open-source](https://github.com/kkoscielniak/digital-garden), so if you stumble upon something evidently wrong, you can always open a PR or an issue.
+Similarly to [[knowledge/adhd|myself]], this digital garden is messy by design. This means the ideas, snippets, resources or thoughts presented here might not (and most of the time - won't) be well-written, perfectly organised, up-to-date or even true 😱
+
+It's all about evolution. I evolve, my thinking evolves, and so do the JavaScript frameworks.
+
+It's hard to keep up on everything and people make mistakes. But each time my knowledge expands, so does this garden.
+
+The good part is that the whole thing is [open source](https://github.com/kkoscielniak/digital-garden), so if you stumble upon something evidently wrong, you can always open a PR.
 
 ## Technical nitpicks
 
-This site is written in [[tools/apps/obsidian|Obsidian]] and built using [[tools/apps/vite-press|VitePress]]. I keep the Obsidian Vault on [GitHub](https://github.com/kkoscielniak/digital-garden) and host it on [GitHub Pages](https://pages/github.com).
-
-::: info
-For more information about this setup, see [[tools/apps/vite-press|VitePress]] and [[tools/apps/obsidian|Obsidian]].
-:::
+This site is written in [[tools/apps/obsidian|Obsidian]] and built using [[tools/apps/vite-press|VitePress]]. I keep the Obsidian Vault on [GitHub](https://github.com/kkoscielniak/digital-garden) and host it with [GitHub Pages](https://pages/github.com).

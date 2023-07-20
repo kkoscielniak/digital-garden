@@ -10,6 +10,12 @@ In January, 2023 I've been late-diagnosed with ADHD. It immediately became the f
 
 This also means that my ADHD journey will become a recurring theme on this site.
 
+## Treatment
+
+I treat my ADHD with stimulants (modified-release methylphenidate tablets, 30mg/day) and therapy.
+
+The former enables me to think more clearly through the day. The latter teaches me how to live in the social-framework in which I feel like a misfit most of the time.
+
 ## Resources
 
 - ❗[Making ADHD your superpower](https://www.youtube.com/watch?app=desktop&v=I9LRSgxbQqM)
@@ -19,3 +25,4 @@ This also means that my ADHD journey will become a recurring theme on this site.
 - [Dlaczego Nie Lubisz Przebywać w Towarzystwie, ADHD, Uwaga, Pamięć, Leki - dr Kajetana Foryciarz](https://www.youtube.com/watch?v=nGaC6NEWl4M) - Przemek Górczyk Podcast 🇵🇱
 - [Drew Lynch - Being Married To Someone With ADHD](https://www.youtube.com/watch?v=v3I0YsfMJS8) - stand-up comedy piece <3
 - [Why curiosity gets you farther than ambition | Drew Lynch | TEDxNashville - YouTube](https://www.youtube.com/watch?v=Ow-0P3SyZpM)
+  - not related to ADHD, but very inspiring way of approaching life
