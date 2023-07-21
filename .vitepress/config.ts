@@ -3,15 +3,15 @@ import mdWikilinks from "markdown-it-wikilinks";
 import mdCheckbox from "markdown-it-checkbox";
 import mdInclude from "markdown-it-include";
 import { sidebar } from "./plugins/sidebar";
-import { getBacklinks } from "./theme/plugins/zettelkasten/backlinks";
-import { markdownItBacklinks } from "./theme/plugins/zettelkasten";
+import { backlinksMarkdownIt } from "./theme/plugins/backlinks";
+import { getBacklinksCollection } from "./theme/plugins/backlinks/backlinksCollection";
 
 export default defineConfig({
   base: "/",
   title: "🥦 kościelniak.pro",
   description: "Things I know",
   ignoreDeadLinks: true,
-  srcExclude: ["private", "knowledge", "about", "reading"],
+  srcExclude: ["private"],
   themeConfig: {
     docFooter: {
       next: false,
@@ -39,7 +39,7 @@ export default defineConfig({
       md.use(wikilinks)
         .use(mdCheckbox)
         .use(mdInclude, "partials")
-        .use(markdownItBacklinks, { vault: "/" });
+        .use(backlinksMarkdownIt, { vault: "/" });
     },
   },
   head: [
@@ -79,7 +79,7 @@ export default defineConfig({
     ["meta", { name: "msapplication-TileColor", content: "#3a0839" }],
   ],
   transformPageData: async (pageData) => {
-    let backlinks = await getBacklinks(pageData);
+    let backlinks = await getBacklinksCollection(pageData);
     return {
       backlinks,
     };

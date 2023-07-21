@@ -1,7 +1,8 @@
 import { defineComponent, h, reactive, watch } from "vue";
+import { useRoute } from "vitepress";
 import DefaultTheme from "vitepress/theme";
-import { BacklinkReferences } from "./plugins/zettelkasten/components";
-import { useData, useRoute } from "vitepress";
+import BacklinkReferences from "./plugins/backlinks/components/Backlinks.vue";
+import Title from "./components/Title.vue";
 
 export const Layout = defineComponent({
   name: "Layout",
@@ -16,7 +17,9 @@ export const Layout = defineComponent({
 
     return () =>
       h(DefaultTheme.Layout, null, {
-        "doc-before": () => h(BacklinkReferences, { key: `${state.key}` }),
+        "doc-before": () => h(Title, { key: `${state.key}` }),
+        "aside-outline-after": () =>
+          h(BacklinkReferences, { key: `${state.key}` }),
       });
   },
 });
