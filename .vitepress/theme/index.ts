@@ -2,9 +2,11 @@
 import Theme from "vitepress/theme";
 import Title from "./LayoutWithTitle.vue";
 import "./style.css";
+import { Layout } from "./lay2";
 
 export default {
-  Layout: Title,
   extends: Theme,
-  enhanceApp({ app, router, siteData }) {},
+  Layout: Layout,
+  // enhanceApp({ app, router, siteData }) {},
+  // TODO: Moze z tego skorzystac jakos?
 };
