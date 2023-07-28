@@ -14,3 +14,7 @@ title: React
 ## Traversing lists
 
 Using the `.map` method. Function passed to `map()` is called for every element in the array and new array with the results is created.
+
+## Resources
+
+- [Mantine](https://mantine.dev/) - UI components library
