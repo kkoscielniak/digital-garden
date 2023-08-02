@@ -15,3 +15,5 @@ Useful with [[tools/automation/script-kit|ScriptKit]] and [[tools/automation/key
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa)
 - [@jxa/run](https://www.npmjs.com/package/@jxa/run) - package similar like `run-jxa`
 - [JavaScript for Automation @ Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/JavaScript_for_Automation)
+- [@jxa/types](https://www.npmjs.com/package/@jxa/types) - TypeScript definitions
+- [JXA Examples](https://jxa-examples.akjems.com/)
