@@ -13,4 +13,5 @@ I maintain 2 separate Obsidian Vaults:
   - unfortunately I didn't find a way to highlight wrongly-linked notes in VitePress (yet!)
 
 ## Resources
+
 - [Templater plugin](https://github.com/SilentVoid13/Templater)

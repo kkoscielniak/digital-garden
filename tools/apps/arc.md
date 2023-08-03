@@ -53,3 +53,5 @@ tell application "Arc"
 	end tell
 end tell
 ```
+
+...or you can use [[experiments/open-source|arc-applescript-api]] I've made 😅.

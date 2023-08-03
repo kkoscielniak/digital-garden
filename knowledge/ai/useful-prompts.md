@@ -1,6 +1,7 @@
 ---
 title: Useful prompts
 ---
+
 ## Get key information from a job offer listing
 
 ```
@@ -12,7 +13,6 @@ As a software developer specializing in JavaScript and its ecosystem, I am curre
 
 2. Information about the Job
 	- tech stack used
-	- 
 
 4. Responsibilities for the role (hard skills):
    - Must-have hard skills for the Senior JavaScript developer role (e.g., JavaScript, React, etc.)
