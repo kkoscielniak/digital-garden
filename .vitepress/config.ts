@@ -3,7 +3,6 @@ import mdWikilinks from "markdown-it-wikilinks";
 import mdCheckbox from "markdown-it-checkbox";
 import mdInclude from "markdown-it-include";
 import { sidebar } from "./plugins/sidebar";
-import { backlinksMarkdownIt } from "./theme/plugins/backlinks";
 import { getBacklinksCollection } from "./theme/plugins/backlinks/backlinksCollection";
 
 export default defineConfig({
@@ -37,7 +36,6 @@ export default defineConfig({
       });
 
       md.use(wikilinks).use(mdCheckbox).use(mdInclude, "partials");
-      // .use(backlinksMarkdownIt, { vault: "/" });
     },
   },
   head: [

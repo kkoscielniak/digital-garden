@@ -37,10 +37,10 @@ Some of these might not be as useful as one might think, but executing them migh
 ## _ViteBlish_
 
 - An enhanced theme for [[tools/apps/vite-press|VitePress]] that would provide additional features like:
-  - backlinks
-  - knowledge graph
+  - [x] backlinks
+  - [ ] knowledge graph
     - https://github.com/penrose/penrose/ - diagrams maker
-  - deep integration with [[tools/apps/obsidian|Obsidian]]
+  - [ ] deep integration with [[tools/apps/obsidian|Obsidian]]
 - Think Obsidian Publish/[Quartz](https://quartz.jzhao.xyz/) but made for VitePress
 - Progress on that could be seen in this [[about/digital-garden|digital garden]] since I experiment with many features in my setup
 - Perhaps it could be a set of VitePress plugins instead of the fully-featured theme?
