@@ -3,6 +3,7 @@ import { useRoute } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import BacklinkReferences from "./plugins/backlinks/components/Backlinks.vue";
 import Title from "./components/Title.vue";
+import { data } from "./backlinks.data";
 
 export const Layout = defineComponent({
   name: "Layout",
@@ -10,6 +11,9 @@ export const Layout = defineComponent({
   setup() {
     const route = useRoute();
     const state = reactive({ key: route.path });
+
+    console.log(data);
+
     watch(
       () => route.path,
       (path) => (state.key = path),

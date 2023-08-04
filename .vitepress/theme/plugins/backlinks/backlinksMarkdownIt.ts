@@ -1,5 +1,5 @@
 import type { PluginWithParams } from "markdown-it";
-import { collection } from "./backlinksCollection";
+import { collection } from "./backlinksCollection.js";
 
 export const regexp = /\[{2}\s*(.+?)\s*\]{2}/gi;
 
@@ -13,6 +13,7 @@ const linkMatcher = (cap: RegExpExecArray) => {
 
 export const backlinksMarkdownIt: PluginWithParams = (md, { vault }): void => {
   md.core.ruler.before("normalize", "backlinks", (state) => {
+    // console.log(state);
     let relativePath = state.env.relativePath?.replace(".md", "");
     let selfTitle = state.env.frontmatter?.title;
 
@@ -40,6 +41,8 @@ export const backlinksMarkdownIt: PluginWithParams = (md, { vault }): void => {
             collection.set(path, backlinks);
           }
         }
+
+        // console.log(collection);
       }
 
       return src;

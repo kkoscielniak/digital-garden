@@ -36,10 +36,8 @@ export default defineConfig({
         postProcessLabel: (label) => label.split("/").pop(),
       });
 
-      md.use(wikilinks)
-        .use(mdCheckbox)
-        .use(mdInclude, "partials")
-        .use(backlinksMarkdownIt, { vault: "/" });
+      md.use(wikilinks).use(mdCheckbox).use(mdInclude, "partials");
+      // .use(backlinksMarkdownIt, { vault: "/" });
     },
   },
   head: [
