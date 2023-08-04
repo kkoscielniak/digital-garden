@@ -14,19 +14,22 @@
 <script setup lang="ts">
 import { useData, useRoute } from "vitepress";
 import { Backlink } from "../backlinksCollection";
+import { data as backlinksCollection } from "../../../backlinks.data";
 
-const { page } = useData();
-  const allBacklinks: Backlink[] = page.value["backlinks"];
-  let route = useRoute();
-  let backlinks: Backlink[] = [];
-  
-  for (const backlink of allBacklinks) {
-    if (`/${backlink.path}` == route.path.replace(".html", "")) {
-      // exclude self reference
-      continue;
-    }
-    backlinks.push(backlink);
-  }
+const route = useRoute(); 
+
+console.log(backlinksCollection, route)
+
+const backlinks = backlinksCollection.data[route.path.replace(".html", "").slice(1)] || [];
+console.log(backlinks);
+
+// for (const backlink of allBacklinks) {
+//   if (`/${backlink.path}` == route.path.replace(".html", "")) {
+//     // exclude self reference
+//     continue;
+//   }
+//   backlinks.push(backlink);
+// }
 </script>
 
 <style scoped lang="scss">
