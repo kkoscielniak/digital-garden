@@ -25,3 +25,6 @@ I use MPC Live (1 gen.) for making beats. Most of the time in standalone mode.
 ## Plugins
 
 - [iZotope Vinyl](https://www.izotope.com/en/products/vinyl.html)
+
+## Others
+- [The Dilla Dimension](http://www.dilladimension.com/) - short [[D3.js]]-based video
