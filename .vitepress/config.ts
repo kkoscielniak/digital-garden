@@ -3,7 +3,6 @@ import mdWikilinks from "markdown-it-wikilinks";
 import mdCheckbox from "markdown-it-checkbox";
 import mdInclude from "markdown-it-include";
 import { sidebar } from "./plugins/sidebar";
-import { getBacklinksCollection } from "./theme/plugins/backlinks/backlinksCollection";
 
 export default defineConfig({
   base: "/",
@@ -74,10 +73,4 @@ export default defineConfig({
     ],
     ["meta", { name: "msapplication-TileColor", content: "#3a0839" }],
   ],
-  transformPageData: async (pageData) => {
-    let backlinks = await getBacklinksCollection(pageData);
-    return {
-      backlinks,
-    };
-  },
 });

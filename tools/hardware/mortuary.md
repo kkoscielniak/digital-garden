@@ -54,6 +54,10 @@ RUN
 - iPhone X
   - My mama is using it right now and she's never had any issues with it
 
+## Music Players
+- 
+- iPod Nano 3gen. (green)
+
 ## Tablets
 
 - Lenovo A1
