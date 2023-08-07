@@ -5,7 +5,7 @@ customHeader: true
 
 # Ideas worth exploring
 
-Here I keep list of ideas I came with, but haven't had time to [[experiments/experiments|experiment]] with them yet.
+Here I keep list of ideas I came up, but haven't had time to [[experiments/experiments|experiment]] with them yet.
 
 ::: warning
 Some of these might not be as useful as one might think, but executing them might be a funny thing to do.

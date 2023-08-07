@@ -18,6 +18,10 @@ I use MPC Live (1 gen.) for making beats. Most of the time in standalone mode.
   - [THIS BEAT IS INSANE! Soul Beat Maschine Plus](https://www.youtube.com/watch?v=OV64GbCtQAE)
 - [Dubs Banger](https://www.youtube.com/@dubsbangermusic)
 
+## Articles
+
+- [Dusty but Digital: How Producers Went From Crate Digging to Youtube Surfing](https://www.vice.com/en/article/rqmk7r/dusty-but-digital-how-producers-went-from-crate-digging-to-youtube-surfing)
+
 ## VST instruments
 
 - [Steinberg's LoFi Piano](https://www.steinberg.net/vst-instruments/lofi-piano/)
@@ -27,4 +31,5 @@ I use MPC Live (1 gen.) for making beats. Most of the time in standalone mode.
 - [iZotope Vinyl](https://www.izotope.com/en/products/vinyl.html)
 
 ## Others
+
 - [The Dilla Dimension](http://www.dilladimension.com/) - short [[D3.js]]-based video

@@ -3,6 +3,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
+    "fmt": "prettier --write .",
     "format": "prettier --write .",
     "fix-links": "node ./scripts/fix-md-links.js $(git diff --name-only --cached)",
     "dev:backlinks": "nodemon --exec ts-node --esm ./backlinks.ts"

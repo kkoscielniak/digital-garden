@@ -20,4 +20,5 @@ My gardening setup is basically pure VitePress with several plugins like:
 - [Extend default theme to display `$frontmatter.title` as H1 on every page](https://github.com/kkoscielniak/digital-garden/commit/ae956ba7eb2883a2e09056304290395a9d004128)
 
 ## Resources
+
 - https://github.com/ZhongxuYang/vitepress-plugin-nprogress/
