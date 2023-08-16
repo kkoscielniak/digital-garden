@@ -31,3 +31,5 @@
   - I have 2 of them, one is with me everywhere, the other is kept securely as a backup
 - MPC Live (1st gen.)
   - For my music-making adventures
+- [Element Tecuala 8" Skateboard](https://www.elementbrand.co.uk/8%2522-tecuala-skateboard-W4CPB1ELP1.html)
+- [Miller Collection 38](https://www.longboardy.pl/product-pol-9034-Miller-Collection-38.html)
