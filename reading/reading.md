@@ -12,12 +12,13 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 
 ## Currently reading
 
-- 📱 Jak się wybudować i nie zwariować 🇵🇱 - Sławomir Zając
+- 📱 [[reading/booknotes/fin-ninja|Finansowy Ninja]] 🇵🇱 - Michał Szafrański
 - 📱 Stolen Focus: Why You Can't Pay Attention - Johann Hari
 - 📱 The BeatTips Manual: The Art of Beatmaking - Amir Said
 
 ## 2023
 
+- 📱 Jak się wybudować i nie zwariować 🇵🇱 - Sławomir Zając
 - 📱 Zioło. Wszystko wyjaśnione 🇵🇱 - Anita Kilian-Kuźmierczyk, Piotr Kuźmierczyk - ⭐⭐⭐⭐
 - 📱 [[reading/booknotes/make|Make. The Indie Maker Handbook]] - Pieter Levels - ⭐⭐⭐⭐⭐
 - 📱 The Pentester's Blueprint - Phillip L. Wylie, Kim Crawley - ⭐️⭐️⭐️⭐️
