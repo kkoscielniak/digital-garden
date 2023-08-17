@@ -52,7 +52,7 @@ Pieniądze, które przeznaczysz na kupno i utrzymanie samochodu, mógłbyś zai
 
 Decydując się na kupno samochód ponosisz **koszt utraconych korzyści** w postaci niezrealizowania innych pomysłów i braku pieniędzy gdy nadarza się dobra okazja inwestycyjna.
 
-## Arsenał finansowego Ninja
+## Arsenał finansowego ninja
 
 > Pamiętaj, że tworzenie własnej strategii finansowej to długotrwały proces, wymagający cierpliwości i ciągłego doskonalenia umiejętności.
 
@@ -88,3 +88,74 @@ Automatyczne przelewy na oszczędności pomagają utrzymać dyscyplinę finansow
 Kluczowym jest analizowanie budżetu i wyciąganie wniosków, aby dostosowywać plan do rzeczywistości. Kontrola finansów pozwala na proaktywne działanie, a nie tylko reagowanie. Przy nadwyżkach finansowych, warto zasilić fundusz awaryjny, spłacić długi lub uzupełnić fundusz na wydatki nieregularne.
 
 Praca z budżetem to nieustanny proces doskonalenia, nie chodzi o idealne liczby, ale o poprawę stanu finansów.
+
+#### Planowanie z wyprzedzeniem
+
+Planując wrzesień opieraj się na danych z sierpnia - w tem sposób uprościsz samo planowanie, bo masz już jakieś dane.
+
+Ostatecznie doprowadź do sytuacji, w której nie pieniądze zarobione we wrześniu wydajesz w październiku - będziesz mieć więcej buforu w razie nagłego braku przychodu.
+
+#### Fundusz wydatków nieregularnych (FWN)
+
+Przy każdej kategorii wydatków stałych-nieregularnych wpisz sumaryczne **koszty roczne** (300 zł kwartalnie == 1200 zł). Następnie zsumuj wszystkie koszty nieregularne.
+
+Sumaryczna kwota powie Ci, ile potrzebujesz pieniędzy w skali roku, by móc sfinansować nieregularne koszty. Podziel tę liczbę przez 10 i co miesiąc odkładaj na FWN wyliczoną sumę (dzielenie przez 10 pozwala na zaoszczędzenie nieco więcej).
+
+#### Modelowa struktura budżetu domowego
+
+- 60% dochodów - stałe zobowiązania (czynsz, ubezpieczenia, kablówka, internet, rata kredytu hipotecznego etc).
+  - Jeśli wydatki stałe przekraczają 60% dochodów, **przekraczasz swoje możliwości finansowe**
+  - Rata kredytu hipotecznego nie powinna przekraczać 30% naszych zarobków (nie więcej niż połowa miesięcznych stałych zobowiązań).
+- 10% dochodów - cele emerytalne.
+- 10% - oszczędności krótkoterminowe, służące realizacji planów w ciągu kilku lub kilkunastu miesięcy (wakacje, remonty czy zakup sprzętu).
+- 10% - oszczędzanie długoterminowe (fundusze celowe na budowę finansowego zabezpieczenia, zakup samochodu, edukację dzieci i inne celowe wydatki), spłata długów
+- Ostatnie 10% można przeznaczyć na luksusowe wydatki i zachcianki.
+
+Po otrzymaniu pensji, automatycznie warto wykonywać przelewy na konta oszczędnościowe, pozostawiając na koncie bieżącym jedynie 60% środków przeznaczonych na bieżące wydatki.
+
+Wypowiadając wojnę długom, warto także (przynajmniej okresowo) wyeliminować 10% przeznaczone na rozrywkę i przekierować je na walkę z długami.
+
+#### Analiza danych budżetowych
+
+Analiza zebranych danych pozwala na:
+
+- łatwe weryfikowanie, jak założenia początkowe korelują z faktycznymi wydatkami w różnych kategoriach
+- zrozumienie źródła rozbieżności w budżecie i na kontach
+- znalezienie wzorców zachowań i reakcji emocjonalnych związanych z wydatkami
+- bardziej efektywne planowanie kolejnych miesięcy
+
+Ważne jest, by przeanalizować wykonany budżet każdego miesiąca, poszukując wzorców zachowań i reakcji emocjonalnych związanych z wydatkami.
+
+Kluczowe pytanie brzmi: **_Co można zmienić w nadchodzącym miesiącu?_**
+
+Jeśli nadwyżki finansowe występują, warto przemyśleć ich rozdzielenie zgodnie z planem. Opracowując budżet na następny miesiąc, warto wykorzystać zdobytą wiedzę i doświadczenie. Jednakże należy pamiętać, aby nie komplikować budżetu zbytnio. **Prostota jest kluczowa, by utrzymać systematyczność**.
+
+### Kalkulator finansowy
+
+Kalkulator finansowy to urządzenie lub program, które umożliwia rozwiązanie różnych zadań finansowych, m.in.:
+
+- obliczanie oszczędności na lokacie terminowej
+- wyznaczanie raty kredytu na konkretną kwotę i liczbę lat przy konkretnym oprocentowaniu
+- analiza spłaty kapitału i odsetek
+- szacowanie kosztów kredytu (zadłużenie vs odsetki)
+- porównanie korzyści z zadłużenia na karcie kredytowej i pożyczki
+- ile musisz odkładać, żeby mieć milion za 30 lat, biorąc pod uwagę średnioroczny zwrot z inwestycji w wysokości x%
+- jak bardzo spadnie wartość twoich oszczędności w ciągu 10 lat, jeśli średnia inflacja roczna wyniesie 2,5%
+
+#### Procent składany
+
+> Najpotężniejszą siłą we wszechświecie jest procent składany
+
+Procent składany to sposób oprocentowania kapitału, w którym odsetki są dołączane do początkowego kapitału zamiast być wypłacane po zakończeniu okresu rozliczeniowego. To prowadzi do wzrostu kwoty odsetek w kolejnych okresach, mimo że nominalne oprocentowanie pozostaje stałe.
+
+Jest to korzystne dla naszych finansów posiadamy kapitał i niekorzystne jeśli go pożyczamy, gdyż im dłużej pożyczamy, tym więcej odsetek płacimy.
+
+Procent składany działa na naszą korzyść, gdy oszczędzamy długo, pozwalając kapitałowi i odsetkom generować kolejne odsetki. Częstotliwość kapitalizacji odsetek wpływa na tempo wzrostu kapitału. Małe kwoty sumują się do dużych, więc dbałość o szczegóły ma znaczenie. Zmiana oprocentowania lub skupienie na drobnych kwotach może istotnie wpłynąć na oszczędności.
+
+Czynniki, które negatywnie wpływają na tempo zarabiania, to często podatek od zysków kapitałowych, inflacja, prowizje, opłaty roczne. Maksymalizacja oprocentowania korzystnego dla nas oraz minimalizacja innych opłat jest ważna. Instytucje finansowe wykorzystują procent składany na swoją korzyść, więc długi kredyt o ratach stałych skutkuje większymi płatnościami odsetek w pierwszych latach.
+
+> Można powiedzieć, że inflacja to także procent składany, ale działający przeciwko nam.
+
+W przypadku kredytu: sumowanie odsetek płaconych w kolejnych latach powoduje, że przy kilkudziesięcioletnich okresach kredytowania i teoretycznie niskim oprocentowaniu kredytu płaci się pożyczkodawcy znacznie więcej odsetek, niż wynosi kwota pożyczonego kapitału. Jeśli wybierzemy kredyt o ratach stałych, to w pierwszych latach zapłacimy bankowi przede wszystkim odsetki.
+
+Nadpłacając kredyt, unikamy nadmiernego oprocentowania, ponieważ odsetki liczane są od mniejszej kwoty kapitału.
