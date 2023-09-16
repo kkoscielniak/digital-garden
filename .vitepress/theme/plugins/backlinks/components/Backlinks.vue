@@ -1,10 +1,14 @@
 <template>
   <div v-if="backlinks.length" class="backlinks">
-    <div class="content">  
-      <div class="backlinks-title">{{ backlinks.length }} linked note{{ backlinks.length > 1 ? "s" : "" }}</div>
+    <div class="content">
+      <div class="backlinks-title">
+        {{ backlinks.length }} linked note{{ backlinks.length > 1 ? "s" : "" }}
+      </div>
       <ul>
         <li v-for="backlink in backlinks">
-          <a class="backlink" :href="`/` + backlink.path">{{ backlink.title }}</a>
+          <a class="backlink" :href="`/` + backlink.path">{{
+            backlink.title
+          }}</a>
         </li>
       </ul>
     </div>
@@ -15,9 +19,9 @@
 import { useRoute } from "vitepress";
 import { data as backlinksCollection } from "../../../backlinks.data";
 
-const route = useRoute(); 
-const backlinks = backlinksCollection.data[route.path.replace(".html", "").slice(1)] || [];
-
+const route = useRoute();
+const backlinks =
+  backlinksCollection.data[route.path.replace(".html", "").slice(1)] || [];
 </script>
 
 <style scoped lang="scss">
@@ -29,7 +33,7 @@ const backlinks = backlinksCollection.data[route.path.replace(".html", "").slice
     font-size: 13px;
     font-weight: 500;
   }
-  
+
   .backlinks-title {
     letter-spacing: 0.4px;
     line-height: 28px;

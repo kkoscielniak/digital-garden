@@ -13,12 +13,12 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 ## Currently reading
 
 - 📱 [[reading/booknotes/fin-ninja|Finansowy Ninja]] 🇵🇱 - Michał Szafrański
-- 📱 Stolen Focus: Why You Can't Pay Attention - Johann Hari
 - 📱 The BeatTips Manual: The Art of Beatmaking - Amir Said
 
 ## 2023
 
-- 📱 Jak się wybudować i nie zwariować 🇵🇱 - Sławomir Zając
+- 📱 Stolen Focus: Why You Can't Pay Attention - Johann Hari - ⭐⭐⭐⭐
+- 📱 Jak się wybudować i nie zwariować 🇵🇱 - Sławomir Zając - ⭐⭐⭐⭐
 - 📱 Zioło. Wszystko wyjaśnione 🇵🇱 - Anita Kilian-Kuźmierczyk, Piotr Kuźmierczyk - ⭐⭐⭐⭐
 - 📱 [[reading/booknotes/make|Make. The Indie Maker Handbook]] - Pieter Levels - ⭐⭐⭐⭐⭐
 - 📱 The Pentester's Blueprint - Phillip L. Wylie, Kim Crawley - ⭐️⭐️⭐️⭐️
@@ -27,8 +27,8 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 
 - 🎧 Deep Work - Cal Newport - ⭐️⭐️⭐️⭐️⭐️
 - 📱 Programowanie na Autopilocie 🇵🇱 - Adam Gospodarczyk - ⭐️⭐️⭐️⭐️
-- 📱 Codzienność na Autopilocie 🇵🇱 - Adam Gospodarczyk - ⭐️⭐️⭐️⭐️⭐️
-- 📱 [[reading/booknotes/the-kaizen-way|One Small Step Can Change Your Life: The Kaizen Way]]🇵🇱 - Robert Maurer - ⭐️⭐️⭐️
+- 📱 [[reading/booknotes/codziennosc-na-autopilocie|Codzienność na Autopilocie]] 🇵🇱 - Adam Gospodarczyk - ⭐️⭐️⭐️⭐️⭐️
+- 📱 [[reading/booknotes/the-kaizen-way|One Small Step Can Change Your Life: The Kaizen Way]] 🇵🇱 - Robert Maurer - ⭐️⭐️⭐️
 
 ## 2021
 
@@ -51,5 +51,7 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 
 - 📱 Remote. Office Not Required - Jason Fried
 - 📱 Rework - Jason Fried
+- 📱 Zawód Programista 🇵🇱 - Maciej Aniserowicz - ⭐⭐⭐
+- 📱 Programista... i co dalej? 🇵🇱 - Maciej Aniserowicz - ⭐⭐
 
 📱 - eBook | 🎧 - audiobook | 📕 - paperback | 🇵🇱 - read in Polish
