@@ -2,12 +2,12 @@
 title: Reading List
 ---
 
-Here's the **absolutely incomplete** list of what I've read so far. Sometimes with summary and book notes.
+Here's the **absolutely incomplete** list of what I've read so far. Sometimes with summary and book notes. The number of books read is not a metric that should be taken too seriously, after all.
 
 If you are curious about how I read, [[reading/how-I-read|take a look]].
 
 ::: info
-Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I consider some of the tips presented in these books hard to apply for neurodivergent people (e.g. _Deep Work_ has lots of great ideas and is a great read overall, but the execution was never easy for me).
+**Neurodiversity disclaimer**: Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I consider some of the tips presented in these books hard to apply for neurodivergent people (e.g. _Deep Work_ has lots of great ideas and is a great read overall, but the execution was never easy for me).
 :::
 
 ## Currently reading

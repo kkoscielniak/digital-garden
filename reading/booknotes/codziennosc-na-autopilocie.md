@@ -37,8 +37,7 @@ Ważne jest także **stworzenie przestrzeni fizycznej i mentalnej** na eksperyme
 
 ## Ustawienia systemowe
 
-- Skonfiguruj **Hyper Key** (`⌘⌥⌃⇧`)
-  - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+- Skonfiguruj **Hyper Key** (`◆` => `⌘ + ⌥ + ⌃ + ⇧`) w aplikacji [[tools/automation/karabiner|Karabiner]]
 - Wyłącz ikony pulpitu
   - `defaults write com.apple.finder CreateDesktop -bool false && killall Finder`
   - Możesz też przypiąć folder `~/Desktop` do systemowego Docka.
@@ -58,7 +57,7 @@ Ważne jest także **stworzenie przestrzeni fizycznej i mentalnej** na eksperyme
   - zautomatyzowane organizowanie plików na dysku twardym
 - [[Dropshare]]
   - zautomatyzowany upload plików na serwer
-- BetterTouchTool
+- [[tools/apps/better-touch-tool|BetterTouchTool]]
   - przydatna jeśli korzysta się z zewnętrznego trackpada
 
 ...

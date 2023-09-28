@@ -8,9 +8,9 @@ outline: false
 
 # `$ whoami`
 
-My name is Krystian Kościelniak. I’m a proud husband and father to a sneaky toddler.
+My name is Krystian Kościelniak. First and foremost, I’m a proud **husband** and **father** to a quite sneaky toddler.
 
-I [write code](https://github.com/kkoscielniak) for a living. Whenever I am not doing that or looking after my kiddo’, I [[reading/reading|read]], [[experiments/experiments|experiment]], play video games or try to make sample-based boombap beats.
+I [write code](https://github.com/kkoscielniak) for a living. Whenever I am not doing that or looking after my kiddo’, I [[reading/reading|read]], [[experiments/experiments|experiment]], play video games or try to make sample-based boombap beats. Or try not to die on a [[knowledge/skateboarding|skateboard]].
 
 In 2023 I've been diagnosed with [[knowledge/adhd|ADHD]]. I'm still exploring that superpower.
 
@@ -18,11 +18,7 @@ In 2023 I've been diagnosed with [[knowledge/adhd|ADHD]]. I'm still exploring th
 
 This is my [[about/digital-garden|digital garden]] - a place for sharing what I learn in public. It's messy by design.
 
-You may roam around freely or use `⌘+K` for a site-wide search.
-
-::: warning
-I'm working on a new version of this site. As of now there are still issues to resolve and content to migrate. The old content is available [here](https://github.com/kkoscielniak/the-garden-content).
-:::
+You may roam around freely or use `⌘ + K` for a site-wide search.
 
 ## Wanna talk?
 

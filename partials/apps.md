@@ -7,3 +7,4 @@
 - [[tools/apps/session|Session]]
 - [[tools/apps/vite-press|VitePress]]
 - [[tools/apps/vs-code|VS Code]]
+- [[tools/apps/better-touch-tool|BetterTouchTool]]

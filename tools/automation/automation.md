@@ -13,3 +13,4 @@ I automate mundane and repetitive tasks as often as possible through both softwa
 - [[tools/automation/shortcuts/shortcuts|Shortcuts]]
 - [[tools/apps/raycast|Raycast]]
 - [[tools/hardware/stream-deck|Elgato Stream Deck 2]]
+- [[tools/automation/karabiner|Karabiner-Elements]]

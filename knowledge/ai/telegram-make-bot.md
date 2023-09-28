@@ -111,7 +111,7 @@ The Shortcut presented above works on macOS, but it also unnecessarily opens an 
 
 ![](/public/telegram-make-bot-5.png)
 
-Thanks to this trick, not only will we skip the browser when opening the bot, but we will also be able to attach it to any keyboard shortcut (in my case, it's `Hyper + X`), [[tools/hardware/stream-deck|Stream Deck]], etc.
+Thanks to this trick, not only will we skip the browser when opening the bot, but we will also be able to attach it to any keyboard shortcut (in my case, it's `◆ + X`; [[tools/automation/karabiner|Hyper Key]]), [[tools/hardware/stream-deck|Stream Deck]], etc.
 
 ## What's next?
 

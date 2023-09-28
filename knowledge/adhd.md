@@ -33,3 +33,15 @@ The former enables me to think more clearly through the day. The latter teaches 
 
 - [Numo](https://numo.so/)
 - [Inflow](https://www.getinflow.io/)
+
+### Recommended psychiatrists 🇵🇱
+
+::: info
+I got this list from my therapist. They are hard to catch, unfortunately.
+:::
+
+- Paweł Brudkiewicz
+- Piotr Drewniak
+- Julita Drewniak
+- Weronika Rybicka
+- Marcin Bugaj
