@@ -42,7 +42,7 @@ Keep in mind that I've been diagnosed with [[knowledge/adhd|ADHD]] recently. I c
 
 - 🎧 Atomic Habits - James Clear
 - 🎧 The Total Money Makeover - Dave Ramsay
-- 📱 The Subtle Art Of Not Giving A Fuck - Mark Manson
+- 📱 [[reading/booknotes/the-subtle-art-of-not-giving-a-fuck|The Subtle Art of Not Giving a Fuck]] - Mark Manson
 - 📱 The Bullet Journal Method - Ryder Carroll
 - 📱 Manhood: How to Be a Better Man-or Just Live with One - Terry Crews - ⭐️⭐️⭐️⭐️
 - 📕 [[reading/booknotes/create-or-hate|Create or Hate]] 🇵🇱 - Dan Norris - ⭐️⭐️
