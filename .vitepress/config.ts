@@ -20,6 +20,10 @@ export default defineConfig({
     sidebar,
     socialLinks: [
       { icon: "instagram", link: "https://instagram.com/pankoscielniak" },
+      {
+        icon: "linkedin",
+        link: "https://www.linkedin.com/in/krystian-ko%C5%9Bcielniak-629102a7/",
+      },
       { icon: "github", link: "https://github.com/kkoscielniak" },
     ],
     search: {
