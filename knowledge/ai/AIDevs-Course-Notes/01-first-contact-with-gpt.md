@@ -1,6 +1,7 @@
 ---
 title: First contact with GPT
 ---
+
 ::: info
 LLMs are evolving rapidly, making it hard to keep up. These notes might be outdated.
 :::
@@ -64,7 +65,8 @@ Tools like ChatGPT can be a valuable addition to your problem-solving toolkit. W
 - Discuss concepts and general problems when working on a client project, helping you structure your thoughts.
 - Use GPT-4 to generate sample code that can help you develop your own version.
 
-### Tailor the prompt 
+### Tailor the prompt
+
 However, it's important to tailor your prompt to get the most useful response. You could specify:
 
 - the assistant's specialization,
@@ -85,7 +87,7 @@ Working with AI tools like ChatGPT and GPT-4 API requires **a high level of resp
 
 Remember, you can still work with these tools on your own, enhancing your learning efficiency, problem-solving, and task completion without processing sensitive information. Personalization and adaptation to your individual context, needs, and toolset are key.
 
-- **Data leakage** - treat everything you paste into the chat window or send to the API as fully public or potentially public data. Be aware that asking ChatGPT to optimize code written for your company could inadvertently make it *open source*, potentially leading to unintended consequences.
+- **Data leakage** - treat everything you paste into the chat window or send to the API as fully public or potentially public data. Be aware that asking ChatGPT to optimize code written for your company could inadvertently make it _open source_, potentially leading to unintended consequences.
 - **Quality of responses** - it may vary. Whether you're using GPT for code generation or text generation, always verify what has been generated. In the case of code, ensure it's safe, optimal, and adheres to your company's coding standards. For text, be aware that ChatGPT may sometimes provide inaccurate or false information.
 - **Prompt injection** - a potential threat when user data is directly pasted into your prompt. This could lead to prompt leakage or unauthorized action execution on the backend. Always be cautious and follow good practices to prevent such issues.
 - The **unpredictability of the environment** and the execution time - OpenAI's API can be unstable, although it has improved over time. This instability makes the API suitable for private use or production applications that can handle potential downtime, but it may not be ideal for real-time user interaction.
@@ -95,7 +97,7 @@ Remember, you can still work with these tools on your own, enhancing your learni
 
 As a developer, focus on OpenAI's latest models: GPT-3.5-Turbo, GPT-4, Whisper, and ChatGPT. A ChatGPT Plus subscription is useful as it offers better service availability and access to GPT-4 in ChatGPT.
 
-Note the interaction difference between earlier and current models. Earlier models used a question-answer format, making conversation difficult without conversation-simulating mechanisms. With models from GPT-3.5-Turbo onwards, you use *ChatML*, which puts you in a conversation context.
+Note the interaction difference between earlier and current models. Earlier models used a question-answer format, making conversation difficult without conversation-simulating mechanisms. With models from GPT-3.5-Turbo onwards, you use _ChatML_, which puts you in a conversation context.
 
 You can influence the conversation, including modifying previous answers. This is key from a programming perspective, as you can change GPT-4's behavior based on the discussion. This is possible because GPT-4 doesn't have a state, and each time you send the entire conversation content.
 
