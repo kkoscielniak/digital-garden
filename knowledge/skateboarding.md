@@ -26,12 +26,14 @@ This year I bought my very first [Element Tecuala 8"](https://www.elementbrand.c
 - [x] Pop up
 - [x] Kick turns
 - [x] Hippie jump
+- [x] Tic Tacs
+- [x] FS Pivot to Fakie
+- [ ] Body Varial
+- [ ] Shuv It
 - [ ] Throw down
 - [ ] Scoop
 - [ ] Tail stop
-- [ ] Tic Tacs
 - [ ] Boneless
-- [ ] Body varial
 - [ ] Manual
 - [ ] Ollie
 - [ ] Kickflip 🏆
