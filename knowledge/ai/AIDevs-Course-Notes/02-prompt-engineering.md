@@ -40,8 +40,6 @@ AI: Apr 28 09:00
 
 You could use a few lines of JavaScript to alter the date format. But, coding a function that returns the correct result for _the day after tomorrow_, _next Friday_, or _after the meeting with Marta_ is much harder. Considering potential typos (e.g., from dictation) or alternative terms for "tomorrow" (e.g., "morning" when said in the evening), the code becomes more complex. For AI, this isn't a significant issue.
 
----
-
 ## Understanding GPT-4
 
 GPT-4 is a potent tool, yet it's not fully comprehended. It operates on probability, selecting the next fitting token. The question's form, words, order, and other parameters influence the answer. GPT-4 doesn't have a distinct "knowledge" to pull from. It tailors its response to the question's context. It lacks reflection and fact retrieval, aiming to return the next token under certain conditions.
@@ -66,8 +64,6 @@ Each has unique uses and suits different scenarios.
 
 - **API** is perfect for advanced interactions and customization. It shines in dynamic context building and integration with independently created logic. Here, programming skills, data organization, prompt creation, and context building using search engines are key. It provides the most freedom and interaction possibilities with GPT-4.
 
----
-
 ## Prompt structure
 
 When working with GPT-4, you need to craft a well-structured prompt, which is part of the process known as **Prompt Engineering**. The structure should include:
@@ -84,8 +80,6 @@ The response can be formatted as per your requirements described directly in the
 
 For production applications, additional elements such as navigating dynamically selected context, content moderation, cost control, and data security are also important.
 They present additional challenges that complicate the project and require more experience.
-
----
 
 ## _Debugging_
 
@@ -112,8 +106,6 @@ For example, such a function checks the behavior of a specific prompt for a set 
 
 You can save a lot of time by preparing such simple functions, as they save you from clicking through the interface or manually making all queries.
 
----
-
 ## Model training
 
 To make GPT-4 more effective for your tasks, you might need to further train the model. This can be done through **in-context learning** or **fine-tuning**.
@@ -125,8 +117,6 @@ Fine-tuning, which may require large training data sets, permanently changes the
 For classification tasks, OpenAI suggests ~100 data sets for each class. However, the effectiveness of the model increases significantly with the number of examples, up to a certain point. Fine-tuning is not simple due to the need for a set of examples in the correct format. Their generation can sometimes be done with GPT-4, but their correctness and diversity must be controlled by a human.
 
 Training your own model from scratch is also an option. This gives you full control over almost every aspect, but it's an advanced topic.
-
----
 
 ## Instruction Design
 
