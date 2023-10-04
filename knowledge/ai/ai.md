@@ -14,3 +14,4 @@ title: AI
 - https://www.deeplearning.ai/
 - https://www.safe.ai/
 - https://platform.openai.com/examples
+- [LEOCODE AI](https://www.leocode.ai/) - curated list of AI tools to use in business automation

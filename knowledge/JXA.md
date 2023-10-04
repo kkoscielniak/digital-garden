@@ -7,7 +7,7 @@ customHeader: true
 
 It's like AppleScript but in [[knowledge/javascript/javascript|JS]].
 
-Useful with [[tools/automation/script-kit|ScriptKit]] and [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]]
+Useful with [[tools/automation/script-kit/script-kit|ScriptKit]] and [[tools/automation/keyboard-maestro/keyboard-maestro|Keyboard Maestro]]
 
 ## Resources
 

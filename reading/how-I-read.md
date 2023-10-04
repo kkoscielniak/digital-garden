@@ -25,6 +25,10 @@ Because of sync and note taking features I read eBooks mostly. Usually I read in
 
 I convert every book to read with [Bionic Reading](https://bionic-reading.com/). It helps me to focus on the content.
 
+#### Resources
+
+- https://www.npmjs.com/package/text-vide
+
 ### Note taking
 
 I [[tools/apps/kindle|highlight]] a lot. I use these highlights to make [[reading/reading|book notes]] shortly after finishing a book.
