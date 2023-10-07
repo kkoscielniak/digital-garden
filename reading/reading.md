@@ -18,7 +18,7 @@ If you are curious about how I read, [[reading/how-I-read|take a look]].
 ## 2023
 
 - 📱 Stolen Focus: Why You Can't Pay Attention - Johann Hari - ⭐⭐⭐⭐
-- 📱 Jak się wybudować i nie zwariować 🇵🇱 - Sławomir Zając - ⭐⭐⭐⭐
+- 📱 [[reading/booknotes/jak-sie-wybudowac|Jak się wybudować i nie zwariować]] 🇵🇱 - Sławomir Zając - ⭐⭐⭐⭐
 - 📱 Zioło. Wszystko wyjaśnione 🇵🇱 - Anita Kilian-Kuźmierczyk, Piotr Kuźmierczyk - ⭐⭐⭐⭐
 - 📱 [[reading/booknotes/make|Make. The Indie Maker Handbook]] - Pieter Levels - ⭐⭐⭐⭐⭐
 - 📱 The Pentester's Blueprint - Phillip L. Wylie, Kim Crawley - ⭐️⭐️⭐️⭐️

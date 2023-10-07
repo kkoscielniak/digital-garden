@@ -11,6 +11,10 @@ Here I keep list of ideas I came up, but haven't had time to [[experiments/exper
 Some of these might not be as useful as one might think, but executing them might be a funny thing to do.
 :::
 
+::: info
+treat "names" as codenames, not the final one
+:::
+
 ## [GFDA](https://gfda.co/)-like wallpapers creator
 
 - webapp that allows to create text-based wallpaper with the content of your own
@@ -44,6 +48,21 @@ Some of these might not be as useful as one might think, but executing them migh
 - Think Obsidian Publish/[Quartz](https://quartz.jzhao.xyz/) but made for VitePress
 - Progress on that could be seen in this [[about/digital-garden|digital garden]] since I experiment with many features in my setup
 - Perhaps it could be a set of VitePress plugins instead of the fully-featured theme?
+
+## *Blockhooks*
+A webapp allowing to select particular Notion Blocks and generate webhooks that would update these blocks.
+
+Or, maybe it should allow to assign the blocks the requests to external APIs and build the block's content. 
+
+Basically integrating Notion to *everything* (that has API, to be precise) without having to maintain dozens of Make scenarios. 
+
+## Unnamed AI game
+- Player 1 (User) speaks English ONLY. 
+- Player 2 (System/AI) speaks Spanish ONLY.
+- They had a car accident (or any other stressful interaction like that)
+- Now they need to resolve the issue even though they can't understand each other.
+	- Looking for words sounding similarly in both languages, perhaps
+
 
 ## Others
 
