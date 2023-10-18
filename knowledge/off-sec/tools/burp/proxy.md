@@ -49,13 +49,15 @@ Burp Suite comes with a built-in Chromium browser that's preconfigured to use Bu
 
 > [!tip] Burp Browser Error
 >
-> We may need to _Allow the embedded browser to run without a sandbox_ in _Project Options_ -> _Misc_ -> _Embedded Browser_ if we run Burp as `root`. This, however, isn't recommended in enviroments other than VM for security reasons.
+> We may need to _Allow the embedded browser to run without a sandbox_ in _Project Options_ -> _Burp's Browser_ if we run Burp as `root`. This, however, isn't recommended in enviroments other than VM for security reasons.
+>
+> (didn't work in Kali Linux tho)
 
 ### using local browser
 
 The Burp Proxy works by opening a web interface on `127.0.0.1:8080` (by default). We need to redirect all of our browser traffic through this port so we can start intercepting it.
 
-We can do this by altering our browser settings (not recommended) or with a [FoxyProxy Basic](https://chrome.google.com/webstore/detail/foxyproxy-basic/dookpfaalaaappcdneeahomimbllocnb) extension.
+We can do this by altering our browser settings or with a [FoxyProxy Basic](https://chrome.google.com/webstore/detail/foxyproxy-basic/dookpfaalaaappcdneeahomimbllocnb) extension (recommended).
 
 We need to create Burp Proxy config in FoxyProxy and enable this proxy setting:
 

@@ -49,20 +49,21 @@ treat "names" as codenames, not the final one
 - Progress on that could be seen in this [[about/digital-garden|digital garden]] since I experiment with many features in my setup
 - Perhaps it could be a set of VitePress plugins instead of the fully-featured theme?
 
-## *Blockhooks*
+## _Blockhooks_
+
 A webapp allowing to select particular Notion Blocks and generate webhooks that would update these blocks.
 
-Or, maybe it should allow to assign the blocks the requests to external APIs and build the block's content. 
+Or, maybe it should allow to assign the blocks the requests to external APIs and build the block's content.
 
-Basically integrating Notion to *everything* (that has API, to be precise) without having to maintain dozens of Make scenarios. 
+Basically integrating Notion to _everything_ (that has API, to be precise) without having to maintain dozens of Make scenarios.
 
 ## Unnamed AI game
-- Player 1 (User) speaks English ONLY. 
+
+- Player 1 (User) speaks English ONLY.
 - Player 2 (System/AI) speaks Spanish ONLY.
 - They had a car accident (or any other stressful interaction like that)
 - Now they need to resolve the issue even though they can't understand each other.
-	- Looking for words sounding similarly in both languages, perhaps
-
+  - Looking for words sounding similarly in both languages, perhaps
 
 ## Others
 

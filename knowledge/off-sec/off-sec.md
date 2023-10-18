@@ -14,3 +14,5 @@ Most of the content here is based on TryHackMe.com room descriptions with other 
 - [Poisontap](https://samy.pl/poisontap/)
 - [GTFOBins](https://gtfobins.github.io/?utm_source=unknownews)
 - [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/?utm_source=unknownews)
+- https://pentesting.zeyu2001.com/
+- https://old.reddit.com/r/hacking/wiki/index
