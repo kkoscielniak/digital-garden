@@ -8,7 +8,7 @@ title: URL vs URI
 
 Nowadays they _are_ basically the same thing. There's a [RFC](https://datatracker.ietf.org/doc/html/rfc3305) explaining the differences, but...
 
-In [[knowledge/off-sec/http|http]] context `URL` is more common. That's it.
+In [[knowledge/http/http|http]] context `URL` is more common. That's it.
 
 ```
 http://user:pass@example.com:8042/dir/file.php?param=value#anchor
@@ -34,7 +34,7 @@ Host: target.com
 [See more](https://portswigger.net/blog/cracking-the-lens-targeting-https-hidden-attack-surface)
 :::
 
-Using `user:pass@` directly [[knowledge/off-sec/http|http]] request is not valid and usually might result in `400 Bad Request` - some servers allow such requests, though
+Using `user:pass@` directly [[knowledge/http/http|http]] request is not valid and usually might result in `400 Bad Request` - some servers allow such requests, though
 
 `#anchor` and what comes after **isn't** sent to the server
 

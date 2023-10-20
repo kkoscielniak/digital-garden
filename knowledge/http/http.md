@@ -3,7 +3,7 @@ title: HTTP
 ---
 ## methods
 - HTTP methods don't have to be called `UPPERCASE`
-	- `PUT` might be disabled. `pUt` not necessarily
+	- 💡 `PUT` might be disabled. `pUt` not necessarily
 
 ### `GET`
 ### `POST`
@@ -31,19 +31,10 @@ title: HTTP
 	- `OPTIONS * HTTP/1.1` -> server
 	- The returned value **might not be true**
 
-## headers
-### `Host`
-- **necessary in HTTP 1.1**
-- HTTP communication:
-	- we provide address
-	- we're asking DNS for target `IP`
-	- we connect to `IP:80` and send request with `Host: target.com` header
-		- for this header we can use other address, even the one we don't have in DNS
-			- this could be used to locate hidden virtual domains
-			- [ ] read more about that
-		- 
+
 
 
 ## See also
-- [[uri-vs-url]]
+- [[knowledge/http/headers]]
+- [[knowledge/http/uri-vs-url]]
 
