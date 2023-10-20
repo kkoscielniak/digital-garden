@@ -1229,3 +1229,4 @@ Kupując materiały wykończeniowe, zwróć uwagę nie tylko na to, jak coś wyg
 Dobrze zmierz, ile czego potrzebujesz. Ile metrów paneli, glazury, gresu? Nie ma co kupować na zapas, bo zostanie spora nadwyżka–szkoda pieniędzy i miejsca na przechowywanie. Z drugiej strony dobrze mieć w rezerwie kilka płytek, paneli, cokołów
 
 może przydadzą się za kilka lat? Podczas zakupów upewnij się, że sklep przyjmie zwrot.
+-->
