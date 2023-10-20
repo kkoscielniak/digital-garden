@@ -31,6 +31,19 @@ title: HTTP
 	- `OPTIONS * HTTP/1.1` -> server
 	- The returned value **might not be true**
 
+## headers
+### `Host`
+- **necessary in HTTP 1.1**
+- HTTP communication:
+	- we provide address
+	- we're asking DNS for target `IP`
+	- we connect to `IP:80` and send request with `Host: target.com` header
+		- for this header we can use other address, even the one we don't have in DNS
+			- this could be used to locate hidden virtual domains
+			- [ ] read more about that
+		- 
+
+
 ## See also
 - [[uri-vs-url]]
 
