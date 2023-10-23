@@ -14,6 +14,7 @@ Możesz też znaleźć mnie na:
 
 - [LinkedIn](https://www.linkedin.gcom/in/krystian-ko%C5%9Bcielniak-629102a7/)
 - [GitHub](https://github.com/kkoscielniak)
+- [Insta](https://instagram.com/pankoscielniak)
 - [X](https://twitter.com/pankoscielniak)
 
 Byłoby mi bardzo miło, gdybyśmy złapali kontakt w którymś z tych miejsc (ale bez presji) 😅
