@@ -27,9 +27,10 @@ Some servers HTTP do whitelist the `Host` header but forget that the request mig
 In such case server checks if `Host` is valid, yet later it uses the host address from the request. Think about that:
 
 ```http
-GET /../../../../../../../../../etc/passwd HTTP/1.1 
+GET /../../../../../../../../../etc/passwd HTTP/1.1
 Host: target.com
 ```
+
 (Apache/MS servers prevent that, but it's quite possible in IoT world)
 [See more](https://portswigger.net/blog/cracking-the-lens-targeting-https-hidden-attack-surface)
 :::

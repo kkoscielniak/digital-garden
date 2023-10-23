@@ -1,6 +1,7 @@
 ---
 title: Pocket C.H.I.P
 ---
+
 I've bought the [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new) device for learning purposes. And to have some fun.
 
 Pocket C.H.I.P. is a portable, battery-powered Linux computer with a 480 x 272 touchscreen and something that resembles a QWERTY keyboard. It has the potential of Raspberry Pi, and it comes with a Debian-based OS along with a custom launcher and apps.

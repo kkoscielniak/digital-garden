@@ -2,4 +2,6 @@
 
 Convenient to use with [[knowledge/off-sec/tools/burp/proxy|Burp Proxy]] or for switching proxy servers regularly
 
-- [for Firefox](https://addons.mozilla.org/pl/firefox/addon/foxyproxy-basic/)
+## See also
+
+- There's also a version [for Firefox](https://addons.mozilla.org/pl/firefox/addon/foxyproxy-basic/)

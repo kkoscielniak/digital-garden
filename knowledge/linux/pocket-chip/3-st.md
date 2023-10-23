@@ -1,7 +1,8 @@
 ---
 title: st
 ---
-`st` is a lightweight terminal emulator that fits [[knowledge/linux/pocket-chip/pocket-chip|pocket-chip]] well. 
+
+`st` is a lightweight terminal emulator that fits [[knowledge/linux/pocket-chip/pocket-chip|pocket-chip]] well.
 
 ## Installation
 
@@ -17,27 +18,28 @@ sudo make clean install
 
 ## Menu entry
 
-```json 
+```json
 // /usr/share/pocket-home/config.json
 {
-"defaultPage" : "Apps",
-	"pages": [
-		{
-			"name": "Apps",
-			"items": [
-				{
-				"name": "Terminal",
-				"icon": "appIcons/terminal.png",
-				"shell": "st" // replace `vala-terminal` with `st`
-				},
-			// ...
-			],
-		}
-	]
+  "defaultPage": "Apps",
+  "pages": [
+    {
+      "name": "Apps",
+      "items": [
+        {
+          "name": "Terminal",
+          "icon": "appIcons/terminal.png",
+          "shell": "st" // replace `vala-terminal` with `st`
+        }
+        // ...
+      ]
+    }
+  ]
 }
 ```
 
 ```
 skill pocket-home
 ```
+
 Now you can enjoy the uncluttered terminal experience on the C.H.I.P.

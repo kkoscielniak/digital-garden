@@ -14,7 +14,7 @@ Zelda is a big project that I am improving gradually whenever I have some spare 
 
 ## Current stack
 
-The current stack is based on the notes from [AI Devs](https://aidevs.pl) course, where I've developed skills related to [[knowledge/ai/gpt|GPT]] and automating with it.
+The current stack is based on the notes from [AI Devs](https://aidevs.pl) course, where I've developed skills related to [[knowledge/ai/llm/gpt|GPT]] and automating with it.
 
 - Make.com - a prototypic _backend_ for handling Zelda's _brain_
 - NestJS
