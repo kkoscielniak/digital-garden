@@ -12,7 +12,7 @@ Jeżeli mnie nie pamiętasz, to zerknij [[index|na główną]] by dowiedzieć si
 
 Możesz też znaleźć mnie na:
 
-- [LinkedIn](https://www.linkedin.gcom/in/krystian-ko%C5%9Bcielniak-629102a7/)
+- [LinkedIn](https://www.linkedin.com/in/krystian-ko%C5%9Bcielniak-629102a7/)
 - [GitHub](https://github.com/kkoscielniak)
 - [Insta](https://instagram.com/pankoscielniak)
 - [X](https://twitter.com/pankoscielniak)
