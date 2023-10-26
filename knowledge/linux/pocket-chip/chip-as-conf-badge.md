@@ -7,7 +7,7 @@ title: C.H.I.P. as conference badge
 ## Tools
 
 - [[knowledge/linux/pocket-chip/3-st|st]]
-	- lightweight terminal emulator
+  - lightweight terminal emulator
 - [[tools/cli/tmux|tmux]]
 - `tmuxinator` (`0.9.0` as it's the last one supported by Ruby `2.1.5` that comes preinstalled on [[knowledge/linux/pocket-chip/pocket-chip|pocket-chip]])
   - Badge window - displays the conference logo and my name
