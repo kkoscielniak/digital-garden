@@ -4,6 +4,9 @@ title: AI
 
 ## Resources
 
+- [paul-gauthier/aider: aider is AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
+- [geekan/MetaGPT: 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo](https://github.com/geekan/MetaGPT)
+- [sdadas/polish-nlp-resources: Pre-trained models and language resources for Natural Language Processing 🇵🇱](https://github.com/sdadas/polish-nlp-resources#language-models-1)
 - https://dreambooth.github.io
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)

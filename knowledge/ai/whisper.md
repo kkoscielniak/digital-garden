@@ -2,7 +2,7 @@
 title: Whisper
 ---
 
-_Whisper_ - A speech recognition model by OpenAI
+_Whisper_ - A speech recognition model by OpenAI.
 
 ## Create transcription for the mp4 video
 
