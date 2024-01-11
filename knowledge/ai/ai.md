@@ -4,6 +4,7 @@ title: AI
 
 ## Resources
 
+- https://github.com/dav-ell/toktrack
 - [paul-gauthier/aider: aider is AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 - [geekan/MetaGPT: 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo](https://github.com/geekan/MetaGPT)
 - [sdadas/polish-nlp-resources: Pre-trained models and language resources for Natural Language Processing 🇵🇱](https://github.com/sdadas/polish-nlp-resources#language-models-1)
